@@ -5,10 +5,10 @@
 
 import BDdinamica
 
-bD = BDdinamica.bdDinamicaES() 
+#bD = BDdinamica.bdDinamicaES() 
 
 def crearReporte(bD):
-    archivo = open('reporteHTML.html','w')
+    archivo = open('reporteHTML.html','w', encoding='utf-8')
     archivo.write('<html>\n')
     archivo.write('<head><title>Reporte en HTML, Tarea Programada #1</title></head>\n')
     archivo.write('<body>\n')
@@ -25,9 +25,15 @@ def crearReporte(bD):
     archivo.write('<th>Estado</th>\n')
     archivo.write('</tr>\n')
     for i in bD:
+        nombre = i[0][0]
+        ap1 = i[0][1]
+        ap2 = i[0][2]
+        carne = i[2]
+        correo = i[3]
+        notas = i[4]
         if i[4][4] >= 70:
             resultado = 'Aprobado'
-        if i[4][4] >= 60:
+        elif i[4][4] >= 60:
             resultado = 'Reposición'
         else:
             resultado = 'Reprobado'
@@ -35,7 +41,11 @@ def crearReporte(bD):
          genero = 'Masculino'
         else:
             genero = 'Femenino'
-    
+        archivo.write('<tr>\n')
+        archivo.write(f'<td>{nombre}</td><td>{ap1}</td><td>{ap2}</td><td>{genero}</td><td>{carne}</td><td>{correo}</td>' \
+                      f'<td>{notas}</td><td>{resultado}</td>\n')
+        archivo.write('</tr>\n')
     archivo.write('</table>\n')
     archivo.write('</body>\n')
     archivo.write('</html>')
+    archivo.close
