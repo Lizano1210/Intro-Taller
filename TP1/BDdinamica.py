@@ -7,7 +7,6 @@
 import names
 import random 
 import math 
-import pickle 
 import re
 
 # Fuente 1
@@ -106,8 +105,9 @@ def bdDinamicaES():
     entrada = math.ceil(cantidad * (porcentaje/100))
     fuente1 = generaNombres(entrada,annoInicial,annoFinal,nota1,nota2,nota3)
     fuente2 = leeNombres(porcentaje,annoInicial,annoFinal,nota1,nota2,nota3)
-    bdDinamica.append(fuente1)
-    bdDinamica.append(fuente2)
+    bdDinamica = fuente1
+    for i in fuente2:
+        bdDinamica.append(i)
     print(bdDinamica)
     return bdDinamica
 
@@ -129,7 +129,7 @@ def sede():
     #print(sedes)
     return [sedes, codSedes]
 
-bdDinamicaES()
+
 
 
 

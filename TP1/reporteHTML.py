@@ -12,8 +12,11 @@ def crearReporte(bD):
     archivo.write('<html>\n')
     archivo.write('<head><title>Reporte en HTML, Tarea Programada #1</title></head>\n')
     archivo.write('<body>\n')
-    archivo.write('<h1>Detalle de Notas</h1>\n')
+    archivo.write('<h1>Reporte en HTML, Tarea Programada #1</h1>\n')
     archivo.write("<table border='1'>\n")
+    archivo.write('<tr>\n')
+    archivo.write('<th>Detalle de notas.</th>\n')
+    archivo.write('</tr>\n')
     archivo.write('<tr>\n')
     archivo.write('<th>Nombre</th>\n')
     archivo.write('<th>Apellido 1</th>\n')
@@ -30,10 +33,11 @@ def crearReporte(bD):
         ap2 = i[0][2]
         carne = i[2]
         correo = i[3]
-        notas = i[4]
-        if i[4][4] >= 70:
+        notas = i[4][0:4]
+        notaFinal = i[4][3]
+        if notaFinal >= 70:
             resultado = 'Aprobado'
-        elif i[4][4] >= 60:
+        elif notaFinal >= 60:
             resultado = 'Reposición'
         else:
             resultado = 'Reprobado'
