@@ -24,6 +24,17 @@ def crearReporte(bD):
     archivo.write('<th>Notas</th>\n')
     archivo.write('<th>Estado</th>\n')
     archivo.write('</tr>\n')
+    for i in bD:
+        if i[4][4] >= 70:
+            resultado = 'Aprobado'
+        if i[4][4] >= 60:
+            resultado = 'Reposición'
+        else:
+            resultado = 'Reprobado'
+        if i[1] == True:
+         genero = 'Masculino'
+        else:
+            genero = 'Femenino'
     
     archivo.write('</table>\n')
     archivo.write('</body>\n')
