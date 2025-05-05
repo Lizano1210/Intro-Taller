@@ -4,19 +4,21 @@
 #
 import BDdinamica
 import reporteHTML
+import respaldoXML
 bD = []
+annos = ()
 
 '''
 Menú
 '''
-def menu(bD):
+def menu(bD,annos):
     print('Administrados de propiedades. \nSeleccione una opción.\n' 
     '\n' 
     'Dígite la tecla indicada según cada opción. \n' 
     '1. Crear base de datos dínamica. \n' 
     #'2. Modificar renta. \n' 
     '3. Generar reporte de HTML. \n' 
-    #'4. Indicar ingreso por alquiler. \n' 
+    '4. Respaldar en XML. \n' 
     #'5. Reporte total del edificio. \n' 
     '6. Salir. \n' 
     '')
@@ -30,15 +32,22 @@ def menu(bD):
 
     if opcion == 1:
         bD = BDdinamica.bdDinamicaES()
+        annos = bD[1]
+        bD = bD[0]
         print(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
-        return menu(bD)
+        return menu(bD,annos)
     
     if opcion == 3:
         reporteHTML.crearReporte(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
-        return menu(bD)
+        return menu(bD,annos)
+    
+    if opcion == 4:
+        respaldoXML.respaldoXML(bD,annos)
+        print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
+        return menu(bD,annos)
     
 
 #Programa principal    
-menu(bD)
+menu(bD,annos)

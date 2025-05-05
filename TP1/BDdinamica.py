@@ -110,8 +110,9 @@ def bdDinamicaES():
     bdDinamica = fuente1
     for i in fuente2:
         bdDinamica.append(i)
+    annos = (annoInicial,annoFinal)
     print(bdDinamica)
-    return bdDinamica
+    return bdDinamica,annos
 
 def sede():
     sedes = []

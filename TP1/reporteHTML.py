@@ -4,7 +4,6 @@
 #
 
 import BDdinamica
-
 #bD = BDdinamica.bdDinamicaES() 
 
 def crearReporte(bD):
@@ -97,4 +96,4 @@ def crearReporte(bD):
     reporte.write('</body>\n')
     reporte.write('</html>')
     reporte.close
-    print(f'Su reporte se genero satisfactoriamente.')
+    return print(f'Su reporte se genero satisfactoriamente.')
