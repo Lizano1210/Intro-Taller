@@ -5,8 +5,11 @@
 import BDdinamica
 import reporteHTML
 import respaldoXML
-bD = []
-annos = ()
+
+# Definición de variables
+
+bD = [] # Lista que futuramente contendra la base de datos dinamica con los estudiantes. 
+annos = () # Tupla que contendra el rango de años dado por el usuario.
 
 '''
 Menú
@@ -32,8 +35,8 @@ def menu(bD,annos):
 
     if opcion == 1:
         bD = BDdinamica.bdDinamicaES()
-        annos = bD[1]
-        bD = bD[0]
+        annos = bD[1] #Se optiene la tupla con el rango de años dado por el usuario.
+        bD = bD[0] #bD se modifica para eliminar la tupla de años y que quede solamente la matriz con estudiantes.
         print(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu(bD,annos)
