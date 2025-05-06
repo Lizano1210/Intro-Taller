@@ -21,6 +21,21 @@ import re
 
 # Fuente 1 Generados aleatoriamente
 def generaNombres(entrada,annoInicial,annoFinal,nota1,nota2,nota3):
+    """
+    Funcionamiento: Genera una lista de estudiantes ficticios con datos como nombre, género, carné, correo y notas, 
+    y los guarda en un archivo de texto. También retorna la base de datos generada con todos los registros.
+    Entradas:
+    - entrada (int): Cantidad de estudiantes a generar.
+    - annoInicial (int): Año mínimo para generar el carné estudiantil.
+    - annoFinal (int): Año máximo para generar el carné estudiantil.
+    - nota1 (float): Porcentaje asignado al primer examen.
+    - nota2 (float): Porcentaje asignado al segundo examen.
+    - nota3 (float): Porcentaje asignado al tercer examen.
+    Salidas:
+    - estudiantesGenerados (list): Lista de estudiantes generados. Cada estudiante es una lista con la estructura:
+    [(nombre, apellido1, apellido2), sexo (bool), carné (str), correo (str),
+    (nota1, nota2, nota3, nota_final, nota_final)].
+    """
     fuente = open('listaPrueba.txt', 'w')
     estudiantesGenerados = []
     for i in range(entrada):
@@ -55,6 +70,23 @@ def generaNombres(entrada,annoInicial,annoFinal,nota1,nota2,nota3):
 
 #Fuente 2 Extraidos de archivo
 def leeNombres(porcentaje,annoInicial,annoFinal,nota1,nota2,nota3):
+    """
+    Funcionamiento: Lee nombres desde un archivo preexistente de estudiantes, selecciona un porcentaje aleatorio 
+    de ellos, les genera un carné, correo y notas ficticias, y agrega esta nueva información a un archivo de salida. 
+    Devuelve la base de datos con los estudiantes seleccionados y completados.
+    Entradas:
+    - porcentaje (float): Porcentaje de estudiantes que se deben seleccionar del archivo.
+    - annoInicial (int): Año mínimo para generar el carné estudiantil.
+    - annoFinal (int): Año máximo para generar el carné estudiantil.
+    - nota1 (float): Porcentaje asignado al primer examen.
+    - nota2 (float): Porcentaje asignado al segundo examen.
+    - nota3 (float): Porcentaje asignado al tercer examen.
+    Salidas:
+    - estudiantesLeidos (list): Lista de estudiantes seleccionados y procesados. 
+    Cada uno tiene la estructura:
+    [(nombre, apellido1, apellido2), sexo (bool), carné (str), correo (str), 
+    (nota1, nota2, nota3, nota_final, nota_final)].
+    """
     estudiantesLeidos = []
     fuenteEstudiantes = open('estudiantes.txt','r')
     lineas = fuenteEstudiantes.readlines()
@@ -89,6 +121,17 @@ def leeNombres(porcentaje,annoInicial,annoFinal,nota1,nota2,nota3):
     return estudiantesLeidos
 
 def bdDinamicaES():
+    """
+    Funcionamiento: Solicita datos al usuario para generar una base de datos dinámica de estudiantes, 
+    combinando estudiantes generados aleatoriamente con otros leídos desde un archivo. 
+    Valida los datos ingresados (años, porcentajes de notas, etc.) y construye una lista de estudiantes 
+    con carné, correo y notas ficticias.
+    Salidas:
+    - bdDinamica (list): Lista combinada de estudiantes generados y leídos. Cada estudiante tiene la estructura:
+    [(nombre, apellido1, apellido2), sexo (bool), carné (str), correo (str), 
+    (nota1, nota2, nota3, nota_final, nota_final)].
+    - annos (tuple): Tupla con el año inicial y final considerados para la generación de carnés.
+    """
     bdDinamica = []
     while True:
         try:
@@ -125,6 +168,15 @@ def bdDinamicaES():
     return bdDinamica,annos
 
 def sede():
+    """
+    Funcionamiento: Lee las sedes disponibles desde el archivo 'sedes.txt', asigna un código secuencial 
+    (anteponiendo un 0) a cada una y retorna tanto la lista completa de sedes con sus códigos como una lista 
+    sola de códigos.
+    Salidas:
+-   list: Una lista con dos elementos:
+    - sedes (list): Lista de listas, cada una con el nombre de la sede y su código correspondiente.
+    - codSedes (list): Lista de solo los códigos asignados a cada sede.
+    """
     sedes = []
     codSedes = []
     archivoSedes = open('sedes.txt','r')

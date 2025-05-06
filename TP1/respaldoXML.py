@@ -11,6 +11,14 @@ import BDdinamica
 #bD = BDdinamica.bdDinamicaES()
 
 def respaldoXML(bD, annos):
+    """
+    Funcionamiento: Genera un archivo XML con la información de los estudiantes, organizados por generación según el año
+    de su carné. Cada entrada incluye nombre completo, género, carné, correo, notas y estado académico.
+    Entradas:
+    - bD (list): Base de datos dinamica de estudiantes.
+    Salidas:
+    - None (imprime un mensaje en consola y genera el archivo 'respaldoXML.xml').
+    """
     respaldo = open('respaldoXML.xml', 'w', encoding='utf-8')
     anno = int(annos[0])
     annoFinal = int(annos[1])

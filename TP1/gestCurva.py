@@ -10,6 +10,16 @@ reporte html para cada estado respectivamente.
 '''
 
 def gestionCurva(bD):
+    """
+    Funcionamiento: Solicita al usuario un porcentaje de curva y lo aplica a la nota final de todos los estudiantes
+    en la base de datos. Actualiza la nota final curva para cada estudiante y luego genera un reporte por estado
+    (usando la función `reportePorEstado`).
+    Entradas:
+    - bD (list): Base de datos dinamica de estudiantes.
+    Salidas:
+    - dict: Diccionario generado por `reportePorEstado()` con conteo de estudiantes según su estado académico
+    (Aprobado, Reposición, Reprobado).
+    """
     while True: # Se solicita curva al usuario.
         try:
             curva = int(input(f'Por favor ingrese el porcentaje de curva que desea aplicar a los estudiantes.\n'))
@@ -29,6 +39,16 @@ def gestionCurva(bD):
 
 
 def reportePorEstado(bD):
+    """
+    Funcionamiento: Genera tres archivos HTML que contienen reportes visuales separados de estudiantes aprobados,
+    en reposición y reprobados según su nota final ajustada (nota con curva). También muestra la cantidad de
+    estudiantes en cada estado.
+    Entradas:
+    - bD (list): Base de datos dinamica de estudiantes.
+    Salidas:
+    - list: Retorna la misma base de datos `bD` sin modificaciones estructurales, solo con las notas finales curvas
+    ya actualizadas.
+    """
     aprobados = 0
     reposicion = 0
     reprobados = 0
@@ -243,7 +263,7 @@ def reportePorEstado(bD):
     reporte.write('</body>\n')
     reporte.write('</html>')
     reporte.close
-    print(f'Su reporte de estudiantes a reposición se genero satisfactoriamente.')
+    print(f'Su reporte de estudiantes reprobados se genero satisfactoriamente.')
     return bD
 
 

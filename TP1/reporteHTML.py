@@ -12,6 +12,17 @@ import BDdinamica
 #bD = BDdinamica.bdDinamicaES() 
 
 def crearReporte(bD):
+    """
+    Funcionamiento: Genera un reporte visual en HTML y un respaldo en CSV con la información de los estudiantes 
+    almacenados en una base de datos. El reporte incluye detalles personales, notas parciales, nota final y el 
+    estado del estudiante (aprobado, reposición o reprobado).
+    Entradas:
+    - bD (list): Base de datos dinamica de estudiantes. 
+    Salidas:
+    - None (imprime en consola un mensaje confirmando la generación del reporte y guarda dos archivos):
+    - 'reporteHTML.html': Reporte visual en formato HTML.
+    - 'respaldoCSV.csv': Respaldo en formato CSV con la misma información.
+    """
     aprobados = 0
     reposicion = 0
     reprobados = 0
