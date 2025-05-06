@@ -35,7 +35,7 @@ def crearReporte(bD):
     reporte.write('   th {\n')
     reporte.write('      background-color: #ad91b0;\n')
     reporte.write('   }\n')
-    reporte.write('   tr:nth-child(even) {\n')
+    reporte.write('   tr:nth-child(even) {\n')  #Para que las lineas intercalen el color.
     reporte.write('       background-color: #909090\n')
     reporte.write('   }\n')
     reporte.write('</style>\n')
@@ -82,11 +82,11 @@ def crearReporte(bD):
                       f'<td>{notas}</td><td>{resultado}</td>\n')
         reporte.write('</tr>\n')
         respaldo.write(f'{nombre},{ap1} {ap2},{genero},{carne},{correo},{notas[0]} {notas[1]} {notas[2]} {notas[3]},{resultado} \n')
-    porApro = ((aprobados/cantidadEstudiantes) *100)
+    porApro = ((aprobados/cantidadEstudiantes) *100) #% De cuantos aprobaron
     porApro = round(porApro, 1)
-    porRepro = ((reprobados/cantidadEstudiantes) *100)
+    porRepro = ((reprobados/cantidadEstudiantes) *100) #% De cuantos reprobaron
     porRepro = round(porRepro, 1)
-    porRepo = ((reposicion/cantidadEstudiantes) *100)
+    porRepo = ((reposicion/cantidadEstudiantes) *100) #% De cuantos van a reposición
     porRepo = round(porRepo, 1)
     reporte.write('<tr>\n')
     reporte.write(f'<th colspan="7">La base de datos posee {cantidadEstudiantes} estudiantes, de los cuales hay: {aprobados} ' \

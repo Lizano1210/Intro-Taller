@@ -9,7 +9,7 @@ import random
 import math 
 import re
 
-# Fuente 1
+# Fuente 1 Generados aleatoriamente
 def generaNombres(entrada,annoInicial,annoFinal,nota1,nota2,nota3):
     fuente = open('listaPrueba.txt', 'w')
     estudiantesGenerados = []
@@ -43,7 +43,7 @@ def generaNombres(entrada,annoInicial,annoFinal,nota1,nota2,nota3):
     print(f'Se genero {entrada} estudiantes')
     return estudiantesGenerados
 
-#Fuente 2
+#Fuente 2 Extraidos de archivo
 def leeNombres(porcentaje,annoInicial,annoFinal,nota1,nota2,nota3):
     estudiantesLeidos = []
     fuenteEstudiantes = open('estudiantes.txt','r')
