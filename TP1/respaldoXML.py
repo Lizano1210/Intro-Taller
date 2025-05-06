@@ -3,6 +3,10 @@
 #
 #
 
+'''
+Reporte XML: Crea un respaldo de la base de datos con un formato de XML.
+'''
+
 import BDdinamica
 #bD = BDdinamica.bdDinamicaES()
 

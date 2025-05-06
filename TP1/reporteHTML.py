@@ -3,6 +3,11 @@
 #
 #
 
+'''
+Reporte HTML: Este archivo genera un reporte en html con todos los estudiantes, sus datos, y un reporte de estadistica
+al final. Tambien reespalda ese mismo reporte en un .csv
+'''
+
 import BDdinamica
 #bD = BDdinamica.bdDinamicaES() 
 

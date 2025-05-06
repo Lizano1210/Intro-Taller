@@ -2,9 +2,20 @@
 #Fecha de creación: 3/5/2025 9:00am.
 #Última modificación: 3/5/2025 8:40pm.
 #Versión de Python: 3.12.3
+'''
+FUNCIONES: En este archivo encontrara todas las funciones de procesamiento del programa.
+'''
 import re
 
 def crearEdificio(p,a):
+    """
+    Funcionamiento: Crea una estructura de edificio con p pisos y a apartamentos por piso. Cada apartamento inicia desocupado.
+    Entradas:
+    - p (int): Cantidad de pisos
+    - a (int): Cantidad de apartamentos por piso
+    Salidas:
+    - edificio (list): Estructura del edificio representada como una lista de listas
+    """
     edificio = []
     for i in range(p):
         edificio.append([])
@@ -15,12 +26,34 @@ def crearEdificio(p,a):
 
 
 def nuevoAlquiler(pAlqui,aAlqui,ingreso,edificio):
+    """
+    Funcionamiento: Registra un nuevo alquiler en el apartamento especificado.
+    Entradas:
+    - pAlqui (int): Número de piso del apartamento
+    - aAlqui (int): Número de apartamento
+    - ingreso (int): Monto del alquiler a registrar
+    - edificio (list): Estructura actual del edificio
+    Salidas:
+    - edificio (list): Estructura actualizada del edificio
+    - mensaje (str): Confirmación del registro del alquiler
+    """
     pAlqui -= 1
     aAlqui -= 1
     edificio[pAlqui][aAlqui] = ingreso
     return edificio, 'Se ha registrado el nuevo alquiler satisfactoriamente.' 
 
 def modificarAlquiler(pAlqui,aAlqui,ingreso,edificio):
+    """
+    Funcionamiento: Modifica el monto de alquiler de un apartamento, validando que el nuevo monto sea distinto y solicitando confirmación.
+    Entradas:
+    - pAlqui (int): Número de piso del apartamento
+    - aAlqui (int): Número de apartamento
+    - ingreso (int): Nuevo monto del alquiler
+    - edificio (list): Estructura actual del edificio
+    Salidas:
+    - edificio (list): Estructura actualizada del edificio (si se confirma el cambio)
+    - mensaje (str): Resultado de la operación (confirmación o cancelación)
+    """
     pAlqui -= 1
     aAlqui -= 1
     if ingreso == edificio[pAlqui][aAlqui]:
@@ -38,6 +71,16 @@ def modificarAlquiler(pAlqui,aAlqui,ingreso,edificio):
     return edificio, f'Se ha modificado el alquiler del apartamento {aAlqui+1} del piso {pAlqui+1}, el alquiler va a {estado} {diferencia}$'
 
 def desalojar(pAlqui,aAlqui,edificio):
+    """
+    Funcionamiento: Desaloja el apartamento especificado, tras confirmar la operación con el usuario.
+    Entradas:
+    - pAlqui (int): Número de piso del apartamento
+    - aAlqui (int): Número de apartamento
+    - edificio (list): Estructura actual del edificio
+    Salidas:
+    - edificio (list): Estructura actualizada del edificio
+    - mensaje (str): Resultado de la operación (confirmación o cancelación)
+    """
     pAlqui -= 1
     aAlqui -= 1
     respuesta = input(str(f'El estado actual de su alquiler es {edificio[pAlqui][aAlqui]}, quiere confirmar la operación? \n'
@@ -48,11 +91,30 @@ def desalojar(pAlqui,aAlqui,edificio):
     return edificio, f'Se ha desalojado el alquiler del apartamento {aAlqui+1} del piso {pAlqui+1}.'
 
 def porApartamento(pAlqui, aAlqui, edificio):
+    """
+    Funcionamiento: Devuelve el monto de alquiler de un apartamento específico.
+    Entradas:
+    - pAlqui (int): Número de piso
+    - aAlqui (int): Número de apartamento
+    - edificio (list): Estructura del edificio
+    Salidas:
+    - edificio (list): Estructura del edificio (sin cambios)
+    - mensaje (str): Información del monto de alquiler del apartamento
+    """
     pAlqui -= 1
     aAlqui -= 1
     return edificio, f'El ingreso del apartamento {aAlqui+1} del piso {pAlqui+1} es de {edificio[pAlqui][aAlqui]}$.'
 
 def porPiso(pAlqui,edificio):
+    """
+    Funcionamiento: Imprime la información de todos los apartamentos de un piso y calcula el total de ingresos del mismo.
+    Entradas:
+    - pAlqui (int): Número de piso
+    - edificio (list): Estructura del edificio
+    Salidas:
+    - edificio (list): Estructura del edificio (sin cambios)
+    - mensaje (str): Total de ingresos del piso
+    """
     pAlqui -= 1
     total = 0
     contador = 0
@@ -69,6 +131,16 @@ def porPiso(pAlqui,edificio):
     return edificio, f'Para un total de ingresos del piso {pAlqui+1} de {total}$.'
 
 def porColumna(colum,edificio,p):
+    """
+    Funcionamiento: Imprime la información de todos los apartamentos en una columna específica y calcula el total de ingresos.
+    Entradas:
+    - colum (int): Número de columna (apartamento en la misma posición en cada piso)
+    - edificio (list): Estructura del edificio
+    - p (int): Cantidad de pisos
+    Salidas:
+    - edificio (list): Estructura del edificio (sin cambios)
+    - mensaje (str): Total de ingresos de la columna
+    """
     colum -= 1
     total = 0
     monto = 0
@@ -87,6 +159,14 @@ def porColumna(colum,edificio,p):
     return edificio, f'Para un total de ingresos de la columna {colum+1} de {total}$.'
 
 def totalEdificio(edificio):
+    """
+    Funcionamiento: Imprime la información de todos los apartamentos del edificio y calcula el total de ingresos.
+    Entradas:
+    - edificio (list): Estructura del edificio
+    Salidas:
+    - edificio (list): Estructura del edificio (sin cambios)
+    - mensaje (str): Total de ingresos del edificio
+    """
     total = 0
     monto = 0
     contador = 0
@@ -108,6 +188,13 @@ def totalEdificio(edificio):
     return edificio, f'Para un total de ingresos totales del edificio de {total}$.'
 
 def reporteTotal(edificio):
+    """
+    Funcionamiento: Calcula y muestra el total de apartamentos alquilados y desocupados, junto con sus porcentajes.
+    Entradas:
+    - edificio (list): Estructura del edificio
+    Salidas:
+    - mensaje (str): Reporte del estado general del edificio en términos de ocupación
+    """
     totalAlquilados = 0
     totalDesocupados = 0
     contador = 0

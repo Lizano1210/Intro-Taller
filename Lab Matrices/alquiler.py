@@ -9,6 +9,13 @@ import funciones
 import re 
 
 def crearEdificioES():
+    """
+    Funcionamiento: Solicita al usuario la cantidad de pisos y apartamentos, valida los datos y crea la estructura inicial del edificio.
+    Entradas:
+    - Ninguna (los datos se solicitan mediante input).
+    Salidas:
+    - None (se llama al menú principal con los datos creados).
+    """
     while True:
         try:
             p = int(input('Ingrese la cantidad de pisos de su edificio: '))
@@ -24,6 +31,15 @@ def crearEdificioES():
     return menu(edificio, p, a,edificioAux)
 
 def alquilarApartamentoES(p,a,edificio):
+    """
+    Funcionamiento: Permite registrar un nuevo alquiler en un apartamento disponible, validando que esté desocupado y que el ingreso sea válido.
+    Entradas:
+    - p (int): Cantidad de pisos del edificio.
+    - a (int): Cantidad de apartamentos por piso.
+    - edificio (list): Matriz que representa el estado actual del edificio.
+    Salidas:
+    - mensaje (str): Confirmación del alquiler o mensaje de error.
+    """
     for u in range(p):
         print(f'Piso {u+1}    {edificio[u]}')
     print('')
@@ -54,6 +70,16 @@ def alquilarApartamentoES(p,a,edificio):
     return salida[1]
     
 def modificarRentaES(edificio,edificioAux,p,a):
+    """
+    Funcionamiento: Permite modificar la renta de un apartamento ya alquilado, validando que no esté vacío.
+    Entradas:
+    - edificio (list): Matriz actual del edificio.
+    - edificioAux (list): Copia vacía del edificio usada para comparar.
+    - p (int): Cantidad de pisos.
+    - a (int): Cantidad de apartamentos por piso.
+    Salidas:
+    - mensaje (str): Confirmación de modificación o mensaje de error.
+    """
     if edificio == edificioAux:
         return'El edificio esta vacío, no hay alquileres que modificar. '
     for u in range(p):
@@ -86,6 +112,16 @@ def modificarRentaES(edificio,edificioAux,p,a):
     return salida[1]
     
 def desalojarES(edificio,edificioAux,p,a):
+    """
+    Funcionamiento: Permite desalojar un apartamento, validando que esté ocupado.
+    Entradas:
+    - edificio (list): Matriz actual del edificio.
+    - edificioAux (list): Copia vacía del edificio usada para comparar.
+    - p (int): Cantidad de pisos.
+    - a (int): Cantidad de apartamentos por piso.
+    Salidas:
+    - mensaje (str): Confirmación del desalojo o mensaje de error.
+    """
     if edificio == edificioAux:
         return'El edificio esta vacío, no hay alquileres que desalojar. '
     for u in range(p):
@@ -109,6 +145,16 @@ def desalojarES(edificio,edificioAux,p,a):
     return salida [1]
 
 def ingresoxAlquilerES(edificio, edificioAux, p, a):
+    """
+    Funcionamiento: Calcula el ingreso por alquiler según la opción del usuario (por apartamento, piso, columna o total).
+    Entradas:
+    - edificio (list): Matriz actual del edificio.
+    - edificioAux (list): Copia vacía del edificio usada para validar estado.
+    - p (int): Cantidad de pisos.
+    - a (int): Cantidad de apartamentos por piso.
+    Salidas:
+    - ingreso (str): Valor calculado o mensaje de advertencia.
+    """
     print('Ingreso por alquiler. \nSeleccione una opción.\n' 
     '\n' 
     'Dígite la tecla indicada según cada opción. \n' 
@@ -197,6 +243,14 @@ def ingresoxAlquilerES(edificio, edificioAux, p, a):
         return salida[1]
     
 def reporteTotalES(edificio, edificioAux):
+    """
+    Funcionamiento: Genera un reporte con todos los apartamentos alquilados y sus ingresos si el edificio no está vacío.
+    Entradas:
+    - edificio (list): Matriz actual del edificio.
+    - edificioAux (list): Copia vacía del edificio usada para validar estado.
+    Salidas:
+    - reporte (str): Información completa del estado del edificio o advertencia si está vacío.
+    """
     if edificio == edificioAux:
         return'El edificio esta vacío, no se puede generar un reporte. '
     salida = funciones.reporteTotal(edificio)
@@ -208,6 +262,16 @@ def reporteTotalES(edificio, edificioAux):
 Menú
 '''
 def menu(edificio, p, a,edificioAux):
+    """
+    Funcionamiento: Muestra el menú principal y ejecuta la opción elegida por el usuario hasta que este decida salir.
+    Entradas:
+    - edificio (list): Matriz actual del edificio.
+    - p (int): Cantidad de pisos.
+    - a (int): Cantidad de apartamentos por piso.
+    - edificioAux (list): Copia vacía del edificio usada para validaciones.
+    Salidas:
+    - None (flujo controlado internamente).
+    """
     print('Administrados de propiedades. \nSeleccione una opción.\n' 
     '\n' 
     'Dígite la tecla indicada según cada opción. \n' 

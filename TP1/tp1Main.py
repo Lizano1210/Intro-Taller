@@ -1,10 +1,16 @@
 #
 #
 #
-# Caldo de pollo
+# 
+
+'''
+Tarea Programada 1, Main: Este es el documento principal de la tarea, el que se ejecuta para iniciar el programa.
+Contiene principalmente, la función de menú.
+'''
 import BDdinamica
 import reporteHTML
 import respaldoXML
+import gestCurva
 
 # Definición de variables
 
@@ -23,7 +29,8 @@ def menu(bD,annos):
     '3. Generar reporte de HTML. \n' 
     '4. Respaldar en XML. \n' 
     #'5. Reporte total del edificio. \n' 
-    '6. Salir. \n' 
+    '6. Gestionar curva. \n' 
+    '7. Salir. \n' 
     '')
 
     while True:
@@ -48,6 +55,11 @@ def menu(bD,annos):
     
     if opcion == 4:
         respaldoXML.respaldoXML(bD,annos)
+        print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
+        return menu(bD,annos)
+    
+    if opcion == 6:
+        gestCurva.gestionCurva(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu(bD,annos)
     

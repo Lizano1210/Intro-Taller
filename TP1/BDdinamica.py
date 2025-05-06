@@ -3,6 +3,16 @@
 #
 #
 
+'''
+Base de datos dinamica: Este documento se encarga de crear la base de datos que utiliza todo el programa.
+Funciones:
+- generaNombres(): Genera entradas de la base datos creando nombres aleatoriamente.
+- leeNombres(): Genera entradas de la base datos extrayendo los nombresde un documento.
+- bdDinamicaES(): Junta las entradas de las 2 funciones anteriores en una sola base de datos universal.
+- sedes(): Lee las sedes que se necesitan para la realización de los carné, las extrae de un documento externo, 
+las codifica y almacena.
+'''
+
 #Importación de librerias
 import names
 import random 
