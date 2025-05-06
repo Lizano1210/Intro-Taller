@@ -4,9 +4,9 @@
 #
 
 '''
-Gestión de curva: Aplica un redondeo a la nota final de todos los estudiantes, el porcentaje de rendondeo es ingresado 
-por el usuario, posterior se separa a los estudiantes segun su estado final y se crea un reporte html 
-para cada estado respectivamente.
+Gestión de curva: Aplica un redondeo a la nota final de todos los estudiantes, el porcentaje de rendondeo 
+es ingresado por el usuario, posterior se separa a los estudiantes segun su estado final y se crea un 
+reporte html para cada estado respectivamente.
 '''
 
 def gestionCurva(bD):

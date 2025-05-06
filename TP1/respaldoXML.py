@@ -17,9 +17,9 @@ def respaldoXML(bD, annos):
     cantidad = annoFinal - anno
     cantidad += 1
     respaldo.write(f'<Estudiantes>\n')
-    for e in range(cantidad):
+    for e in range(cantidad): #Ciclo que incrementa la generación.
         respaldo.write(f'      <Generación año="{anno}">\n')
-        for i in bD:
+        for i in bD: #Ciclo que imprime la entrada de un estudiante de la generación definida en el ciclo anterior.
             generacion = i[2][0:4]
             if generacion == str(anno):
                 nombre = f'{i[0][0]} {i[0][1]} {i[0][2]}'
@@ -50,7 +50,7 @@ def respaldoXML(bD, annos):
             else:
                 continue
         respaldo.write(f'      </Generación>\n')
-        anno +=1
+        anno +=1 #Se incrementa la variable anno para que en el próximo ciclo se imprima la siguiente generación.
     respaldo.write(f'</Estudiantes>')
     return print(f'Su respaldo se genero satisfactoriamente.')
             

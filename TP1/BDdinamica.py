@@ -13,7 +13,7 @@ Funciones:
 las codifica y almacena.
 '''
 
-#Importación de librerias
+#Importación de librerias/modulos
 import names
 import random 
 import math 
