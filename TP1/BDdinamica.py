@@ -151,6 +151,7 @@ def bdDinamicaES():
             nota1 = int(input('Ingrese el primer porcentaje de nota: '))
             nota2 = int(input('Ingrese el segundo porcentaje de nota: '))
             nota3 = int(input('Ingrese el tercer porcentaje de nota: '))
+            porceNotas = (nota1,nota2,nota3)
             total = (nota1 + nota2 + nota3)
             if total != 100:
                 print('Sus porcentajes de notas son invalidos, deben sumar 100')
@@ -169,6 +170,8 @@ def bdDinamicaES():
         pickle.dump(bdDinamica, archivobD)
     with open('rangoAnnos.pkl', 'wb') as archivoAnnos:
         pickle.dump(annos, archivoAnnos)
+    with open('porcentaje.pkl', 'wb') as archivoPorce:
+        pickle.dump(porceNotas, archivoPorce)
     print(bdDinamica)
     return bdDinamica,annos
 

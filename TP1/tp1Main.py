@@ -56,7 +56,7 @@ def menu():
         return menu()
     
     if opcion == 2:
-        registrarEstudiante.registrarEstudiante(bD)
+        registrarEstudiante.registrarEstudianteES()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
