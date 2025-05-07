@@ -10,6 +10,7 @@ Contiene principalmente, la función de menú.
 
 # Importación de librerias/modulos
 import BDdinamica
+import registrarEstudiante
 import reporteHTML
 import respaldoXML
 import gestCurva
@@ -53,7 +54,11 @@ def menu(bD,annos):
         print(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu(bD,annos)
-    
+        
+    if opcion == 2:
+        registrarEstudiante.registrarEstudiante(bD)
+        return menu(bD,annos)
+
     if opcion == 3:
         reporteHTML.crearReporte(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
