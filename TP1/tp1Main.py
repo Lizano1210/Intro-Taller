@@ -10,6 +10,7 @@ Contiene principalmente, la función de menú.
 
 # Importación de librerias/modulos
 import BDdinamica
+import registrarEstudiante
 import reporteHTML
 import respaldoXML
 import gestCurva
@@ -51,6 +52,11 @@ def menu():
         with open('baseDatosDinamica.pkl', 'rb') as archivobD:
             bD = pickle.load(archivobD)
         print(bD)
+        print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
+        return menu()
+    
+    if opcion == 2:
+        registrarEstudiante.registrarEstudiante(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
