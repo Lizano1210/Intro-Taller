@@ -18,6 +18,7 @@ import names
 import random 
 import math 
 import re
+import pickle
 
 # Fuente 1 Generados aleatoriamente
 def generaNombres(entrada,annoInicial,annoFinal,nota1,nota2,nota3):
@@ -164,6 +165,10 @@ def bdDinamicaES():
     for i in fuente2:
         bdDinamica.append(i)
     annos = (annoInicial,annoFinal)
+    with open('baseDatosDinamica.pkl', 'wb') as archivobD:
+        pickle.dump(bdDinamica, archivobD)
+    with open('rangoAnnos.pkl', 'wb') as archivoAnnos:
+        pickle.dump(annos, archivoAnnos)
     print(bdDinamica)
     return bdDinamica,annos
 
@@ -193,6 +198,7 @@ def sede():
         sedes.append(sedeCompleta)
     #print(sedes)
     return [sedes, codSedes]
+
 
 
 

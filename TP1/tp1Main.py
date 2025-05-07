@@ -13,16 +13,16 @@ import BDdinamica
 import reporteHTML
 import respaldoXML
 import gestCurva
+#import apalazados2
+import pickle
 
 # Definición de variables
 
-bD = [] # Lista que futuramente contendra la base de datos dinamica con los estudiantes. 
-annos = () # Tupla que contendra el rango de años dado por el usuario.
 
 '''
 Menú
 '''
-def menu(bD,annos):
+def menu():
     print('Administrados de propiedades. \nSeleccione una opción.\n' 
     '\n' 
     'Dígite la tecla indicada según cada opción. \n' 
@@ -47,27 +47,32 @@ def menu(bD,annos):
             print('El dato ingresado es invalido, intente de nuevo.')
 
     if opcion == 1:
-        bD = BDdinamica.bdDinamicaES()
-        annos = bD[1] #Se optiene la tupla con el rango de años dado por el usuario.
-        bD = bD[0] #bD se modifica para eliminar la tupla de años y que quede solamente la matriz con estudiantes.
+        BDdinamica.bdDinamicaES()
+        with open('baseDatosDinamica.pkl', 'rb') as archivobD:
+            bD = pickle.load(archivobD)
         print(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
-        return menu(bD,annos)
+        return menu()
     
     if opcion == 3:
-        reporteHTML.crearReporte(bD)
+        reporteHTML.crearReporte()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
-        return menu(bD,annos)
+        return menu()
     
     if opcion == 4:
-        respaldoXML.respaldoXML(bD,annos)
+        respaldoXML.respaldoXML()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
-        return menu(bD,annos)
+        return menu()
     
     if opcion == 6:
-        gestCurva.gestionCurva(bD)
+        gestCurva.gestionCurva()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
-        return menu(bD,annos)
+        return menu()
+    
+    if opcion == 8:
+        #apalazados2.determinarAplazados2oMas(bD)
+        print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
+        return menu()
     
     if opcion == 11:
         print('Gracias por utilizar nuestro servicio.')
@@ -76,4 +81,4 @@ def menu(bD,annos):
     
 
 #Programa principal    
-menu(bD,annos)
+menu()

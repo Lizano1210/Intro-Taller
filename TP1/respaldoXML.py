@@ -8,9 +8,10 @@ Reporte XML: Crea un respaldo de la base de datos con un formato de XML.
 '''
 
 import BDdinamica
+import pickle
 #bD = BDdinamica.bdDinamicaES()
 
-def respaldoXML(bD, annos):
+def respaldoXML():
     """
     Funcionamiento: Genera un archivo XML con la información de los estudiantes, organizados por generación según el año
     de su carné. Cada entrada incluye nombre completo, género, carné, correo, notas y estado académico.
@@ -19,6 +20,10 @@ def respaldoXML(bD, annos):
     Salidas:
     - None (imprime un mensaje en consola y genera el archivo 'respaldoXML.xml').
     """
+    with open('baseDatosDinamica.pkl', 'rb') as archivobD:
+            bD = pickle.load(archivobD)
+    with open('rangoAnnos.pkl', 'rb') as archivoAnnos:
+            annos = pickle.load(archivoAnnos)
     respaldo = open('respaldoXML.xml', 'w', encoding='utf-8')
     anno = int(annos[0])
     annoFinal = int(annos[1])

@@ -1,1966 +1,1966 @@
 <Estudiantes>
       <Generación año="2020">
-            <Estudiante carne="2020047618">
-                  <nombre>Calvin Nunez Fox</nombre>
-                  <genero>Femenino</genero>
-                  <correo>cnunez7618@estudiantec.cr</correo>
-                  <notas>94,25,94,69.8,69.8</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2020021687">
-                  <nombre>Russell Cavazos Scheumann</nombre>
-                  <genero>Femenino</genero>
-                  <correo>rcavazos1687@estudiantec.cr</correo>
-                  <notas>15,4,75,35.1,35.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020019841">
-                  <nombre>Robert Phillips Connors</nombre>
+            <Estudiante carne="2020017059">
+                  <nombre>Richard Lyons Campbell</nombre>
                   <genero>Masculino</genero>
-                  <correo>rphillips9841@estudiantec.cr</correo>
-                  <notas>100,70,37,64.3,64.3</notas>
-                  <estado>Reposición</estado>
+                  <correo>rlyons7059@estudiantec.cr</correo>
+                  <notas>73,78,36,59.9,59.9</notas>
+                  <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020028832">
-                  <nombre>Mark Crozier Martinez</nombre>
+            <Estudiante carne="2020010364">
+                  <nombre>Nancy Mcdowell Higgs</nombre>
                   <genero>Femenino</genero>
-                  <correo>mcrozier8832@estudiantec.cr</correo>
-                  <notas>84,67,25,54.5,54.5</notas>
+                  <correo>nmcdowell0364@estudiantec.cr</correo>
+                  <notas>12,12,74,36.8,36.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020028785">
-                  <nombre>Elma Little Dorsey</nombre>
+            <Estudiante carne="2020052567">
+                  <nombre>Carol Ingram Delligatti</nombre>
                   <genero>Femenino</genero>
-                  <correo>elittle8785@estudiantec.cr</correo>
-                  <notas>25,37,90,55.2,55.2</notas>
+                  <correo>cingram2567@estudiantec.cr</correo>
+                  <notas>21,15,91,46.9,46.9</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020038587">
-                  <nombre>Vivien Marshall Kerby</nombre>
-                  <genero>Masculino</genero>
-                  <correo>vmarshall8587@estudiantec.cr</correo>
-                  <notas>23,61,81,59.5,59.5</notas>
+            <Estudiante carne="2020050665">
+                  <nombre>Christina Sommers Lancon</nombre>
+                  <genero>Femenino</genero>
+                  <correo>csommers0665@estudiantec.cr</correo>
+                  <notas>82,75,14,52.4,52.4</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020047777">
-                  <nombre>Sarah Armstrong Dequattro</nombre>
+            <Estudiante carne="2020033284">
+                  <nombre>Dorothy Veasey Todd</nombre>
+                  <genero>Femenino</genero>
+                  <correo>dveasey3284@estudiantec.cr</correo>
+                  <notas>8,64,21,32.8,32.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020044931">
+                  <nombre>John Namm Bouffard</nombre>
                   <genero>Masculino</genero>
-                  <correo>sarmstrong7777@estudiantec.cr</correo>
-                  <notas>37,77,98,75.4,75.4</notas>
+                  <correo>jnamm4931@estudiantec.cr</correo>
+                  <notas>53,21,95,58.6,58.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020045828">
+                  <nombre>David Keyser Jenkins</nombre>
+                  <genero>Femenino</genero>
+                  <correo>dkeyser5828@estudiantec.cr</correo>
+                  <notas>17,18,42,27.4,27.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020060115">
+                  <nombre>Robert Orr Koch</nombre>
+                  <genero>Masculino</genero>
+                  <correo>rorr0115@estudiantec.cr</correo>
+                  <notas>100,31,55,57.9,57.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020052226">
+                  <nombre>Jessica Coughlin Cobb</nombre>
+                  <genero>Femenino</genero>
+                  <correo>jcoughlin2226@estudiantec.cr</correo>
+                  <notas>11,39,85,50.4,50.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020021499">
+                  <nombre>Timothy Billings Robb</nombre>
+                  <genero>Masculino</genero>
+                  <correo>tbillings1499@estudiantec.cr</correo>
+                  <notas>50,86,34,56.2,56.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020022609">
+                  <nombre>Zula Christian Perino</nombre>
+                  <genero>Masculino</genero>
+                  <correo>zchristian2609@estudiantec.cr</correo>
+                  <notas>13,31,35,28.1,28.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020026663">
+                  <nombre>Sofía González Sánchez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>sgonzález6663@estudiantec.cr</correo>
+                  <notas>12,26,85,46.1,46.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020038377">
+                  <nombre>Daniel Rodríguez Díaz</nombre>
+                  <genero>Femenino</genero>
+                  <correo>drodríguez8377@estudiantec.cr</correo>
+                  <notas>5,56,47,39.6,39.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020048902">
+                  <nombre>Pedro González Rivera</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pgonzález8902@estudiantec.cr</correo>
+                  <notas>32,14,84,46.5,46.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020040362">
+                  <nombre>Laura Gómez Rodríguez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lgómez0362@estudiantec.cr</correo>
+                  <notas>42,42,66,51.6,51.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020023462">
+                  <nombre>Sofía Castro Castro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>scastro3462@estudiantec.cr</correo>
+                  <notas>90,81,91,87.2,87.2</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020050408">
-                  <nombre>Fernando Rojas Solano</nombre>
+            <Estudiante carne="2020026894">
+                  <nombre>Sofía Torres Vargas</nombre>
                   <genero>Femenino</genero>
-                  <correo>frojas0408@estudiantec.cr</correo>
-                  <notas>34,40,28,33.7,33.7</notas>
+                  <correo>storres6894@estudiantec.cr</correo>
+                  <notas>20,69,25,39.1,39.1</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020055940">
-                  <nombre>Daniel MartÃ­nez Torres</nombre>
+            <Estudiante carne="2020046089">
+                  <nombre>Carlos Díaz Chaves</nombre>
                   <genero>Femenino</genero>
-                  <correo>dmartã­nez5940@estudiantec.cr</correo>
-                  <notas>29,34,62,44.0,44.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020040253">
-                  <nombre>Gabriela Rivera Navarro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>grivera0253@estudiantec.cr</correo>
-                  <notas>2,48,75,47.3,47.3</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020018290">
-                  <nombre>Ana PÃ©rez Flores</nombre>
-                  <genero>Femenino</genero>
-                  <correo>apã©rez8290@estudiantec.cr</correo>
-                  <notas>3,51,80,50.6,50.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020068984">
-                  <nombre>Miguel PÃ©rez Castro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mpã©rez8984@estudiantec.cr</correo>
-                  <notas>21,73,55,52.8,52.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020016947">
-                  <nombre>Elena Navarro RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>enavarro6947@estudiantec.cr</correo>
-                  <notas>28,95,44,57.9,57.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020064096">
-                  <nombre>LucÃ­a Morales Morales</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lmorales4096@estudiantec.cr</correo>
-                  <notas>1,74,76,56.5,56.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020012405">
-                  <nombre>Daniel RodrÃ­guez DÃ­az</nombre>
-                  <genero>Femenino</genero>
-                  <correo>drodrã­guez2405@estudiantec.cr</correo>
-                  <notas>100,52,17,50.0,50.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020055042">
-                  <nombre>Pedro Rivera Rivera</nombre>
-                  <genero>Masculino</genero>
-                  <correo>privera5042@estudiantec.cr</correo>
-                  <notas>43,22,46,36.9,36.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020012734">
-                  <nombre>Elena MartÃ­nez DÃ­az</nombre>
-                  <genero>Femenino</genero>
-                  <correo>emartã­nez2734@estudiantec.cr</correo>
-                  <notas>100,98,93,96.5,96.5</notas>
+                  <correo>cdíaz6089@estudiantec.cr</correo>
+                  <notas>29,82,91,72.3,72.3</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020063369">
-                  <nombre>Gabriela Solano GÃ³mez</nombre>
+            <Estudiante carne="2020039234">
+                  <nombre>Luis Castro Rivera</nombre>
                   <genero>Masculino</genero>
-                  <correo>gsolano3369@estudiantec.cr</correo>
-                  <notas>17,31,21,23.5,23.5</notas>
+                  <correo>lcastro9234@estudiantec.cr</correo>
+                  <notas>73,50,10,39.8,39.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020056859">
-                  <nombre>Gabriela Castro GÃ³mez</nombre>
+            <Estudiante carne="2020056028">
+                  <nombre>Lucía Rojas Díaz</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lrojas6028@estudiantec.cr</correo>
+                  <notas>8,10,43,22.7,22.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020040277">
+                  <nombre>Sofía Rodríguez Ramírez</nombre>
                   <genero>Masculino</genero>
-                  <correo>gcastro6859@estudiantec.cr</correo>
-                  <notas>93,10,90,62.8,62.8</notas>
+                  <correo>srodríguez0277@estudiantec.cr</correo>
+                  <notas>80,99,39,70.2,70.2</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020065918">
+                  <nombre>Luis Rodríguez Chaves</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lrodríguez5918@estudiantec.cr</correo>
+                  <notas>35,18,72,43.9,43.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020065550">
+                  <nombre>Valeria Pérez Morales</nombre>
+                  <genero>Masculino</genero>
+                  <correo>vpérez5550@estudiantec.cr</correo>
+                  <notas>30,39,63,46.4,46.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020015398">
+                  <nombre>Miguel Gómez Solano</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mgómez5398@estudiantec.cr</correo>
+                  <notas>69,4,87,53.5,53.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020022308">
+                  <nombre>Luis Rodríguez Morales</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lrodríguez2308@estudiantec.cr</correo>
+                  <notas>16,44,12,24.2,24.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020019220">
+                  <nombre>María Solano Díaz</nombre>
+                  <genero>Masculino</genero>
+                  <correo>msolano9220@estudiantec.cr</correo>
+                  <notas>90,21,1,30.2,30.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020055185">
+                  <nombre>Paula Chaves Acosta</nombre>
+                  <genero>Masculino</genero>
+                  <correo>pchaves5185@estudiantec.cr</correo>
+                  <notas>57,98,52,69.3,69.3</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2020038694">
-                  <nombre>Daniel Rojas Navarro</nombre>
+            <Estudiante carne="2020045883">
+                  <nombre>Elena Gómez Díaz</nombre>
                   <genero>Femenino</genero>
-                  <correo>drojas8694@estudiantec.cr</correo>
-                  <notas>63,53,36,48.7,48.7</notas>
+                  <correo>egómez5883@estudiantec.cr</correo>
+                  <notas>2,17,30,18.4,18.4</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020060412">
-                  <nombre>Carlos DÃ­az Chaves</nombre>
-                  <genero>Femenino</genero>
-                  <correo>cdã­az0412@estudiantec.cr</correo>
-                  <notas>61,89,58,69.6,69.6</notas>
+            <Estudiante carne="2020021424">
+                  <nombre>Fernando Rivera Flores</nombre>
+                  <genero>Masculino</genero>
+                  <correo>frivera1424@estudiantec.cr</correo>
+                  <notas>92,26,87,66.9,66.9</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2020045704">
-                  <nombre>JosÃ© GonzÃ¡lez Mora</nombre>
-                  <genero>Femenino</genero>
-                  <correo>jgonzã¡lez5704@estudiantec.cr</correo>
-                  <notas>39,57,57,52.5,52.5</notas>
+            <Estudiante carne="2020033654">
+                  <nombre>Ana Pérez Morales</nombre>
+                  <genero>Masculino</genero>
+                  <correo>apérez3654@estudiantec.cr</correo>
+                  <notas>66,16,66,48.5,48.5</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020042537">
-                  <nombre>Camila Acosta PÃ©rez</nombre>
+            <Estudiante carne="2020034008">
+                  <nombre>Manuel Acosta Sánchez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>macosta4008@estudiantec.cr</correo>
+                  <notas>1,39,70,41.9,41.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020062522">
+                  <nombre>Ana Castro Chaves</nombre>
                   <genero>Masculino</genero>
-                  <correo>cacosta2537@estudiantec.cr</correo>
-                  <notas>95,50,67,68.0,68.0</notas>
+                  <correo>acastro2522@estudiantec.cr</correo>
+                  <notas>49,54,10,35.1,35.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020038661">
+                  <nombre>Sofía Gómez Castro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>sgómez8661@estudiantec.cr</correo>
+                  <notas>100,8,39,43.4,43.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020066619">
+                  <nombre>Gabriela Martínez Ramírez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>gmartínez6619@estudiantec.cr</correo>
+                  <notas>1,36,53,34.1,34.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020055092">
+                  <nombre>Manuel Rodríguez Flores</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mrodríguez5092@estudiantec.cr</correo>
+                  <notas>42,14,97,54.2,54.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020038505">
+                  <nombre>Pedro Navarro Torres</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pnavarro8505@estudiantec.cr</correo>
+                  <notas>7,71,95,64.6,64.6</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2020038168">
-                  <nombre>Ana Flores Solano</nombre>
+            <Estudiante carne="2020016767">
+                  <nombre>Gabriela Castro Castro</nombre>
+                  <genero>Femenino</genero>
+                  <correo>gcastro6767@estudiantec.cr</correo>
+                  <notas>72,29,22,37.0,37.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020044368">
+                  <nombre>Lucía Gómez Morales</nombre>
                   <genero>Masculino</genero>
-                  <correo>aflores8168@estudiantec.cr</correo>
-                  <notas>38,24,10,21.9,21.9</notas>
-                  <estado>Reprobado</estado>
+                  <correo>lgómez4368@estudiantec.cr</correo>
+                  <notas>82,61,89,77.4,77.4</notas>
+                  <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020067734">
-                  <nombre>Luis Castro RodrÃ­guez</nombre>
+            <Estudiante carne="2020056333">
+                  <nombre>Gabriela Ramírez Ramírez</nombre>
                   <genero>Masculino</genero>
-                  <correo>lcastro7734@estudiantec.cr</correo>
-                  <notas>26,41,11,25.2,25.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020011644">
-                  <nombre>Carlos Castro Rojas</nombre>
-                  <genero>Femenino</genero>
-                  <correo>ccastro1644@estudiantec.cr</correo>
-                  <notas>63,29,63,51.1,51.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020051944">
-                  <nombre>Camila Morales Castro</nombre>
-                  <genero>Femenino</genero>
-                  <correo>cmorales1944@estudiantec.cr</correo>
-                  <notas>17,14,38,24.4,24.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2020058554">
-                  <nombre>Paula Chaves RodrÃ­guez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>pchaves8554@estudiantec.cr</correo>
-                  <notas>97,73,32,62.6,62.6</notas>
+                  <correo>gramírez6333@estudiantec.cr</correo>
+                  <notas>91,58,51,63.5,63.5</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2020021982">
-                  <nombre>Carlos Morales MartÃ­nez</nombre>
+            <Estudiante carne="2020058070">
+                  <nombre>Pedro González Gómez</nombre>
                   <genero>Masculino</genero>
-                  <correo>cmorales1982@estudiantec.cr</correo>
-                  <notas>84,22,22,37.5,37.5</notas>
+                  <correo>pgonzález8070@estudiantec.cr</correo>
+                  <notas>76,37,55,54.0,54.0</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020069931">
-                  <nombre>LucÃ­a Rivera Castro</nombre>
+            <Estudiante carne="2020043286">
+                  <nombre>Andrés Chaves Rojas</nombre>
                   <genero>Femenino</genero>
-                  <correo>lrivera9931@estudiantec.cr</correo>
-                  <notas>48,87,13,47.7,47.7</notas>
+                  <correo>achaves3286@estudiantec.cr</correo>
+                  <notas>79,24,13,33.4,33.4</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2020046618">
-                  <nombre>Pedro GonzÃ¡lez GÃ³mez</nombre>
+            <Estudiante carne="2020023142">
+                  <nombre>Paula Ramírez Sánchez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pramírez3142@estudiantec.cr</correo>
+                  <notas>90,94,4,57.0,57.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020053004">
+                  <nombre>Carlos Vargas Rivera</nombre>
                   <genero>Masculino</genero>
-                  <correo>pgonzã¡lez6618@estudiantec.cr</correo>
-                  <notas>28,76,57,56.4,56.4</notas>
+                  <correo>cvargas3004@estudiantec.cr</correo>
+                  <notas>86,62,36,57.6,57.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020051514">
+                  <nombre>Andrés Rodríguez Pérez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>arodríguez1514@estudiantec.cr</correo>
+                  <notas>31,8,74,40.2,40.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020020165">
+                  <nombre>Sofía Martínez Solano</nombre>
+                  <genero>Masculino</genero>
+                  <correo>smartínez0165@estudiantec.cr</correo>
+                  <notas>12,71,16,34.2,34.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020016674">
+                  <nombre>Sofía Chaves Castro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>schaves6674@estudiantec.cr</correo>
+                  <notas>11,96,4,37.9,37.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020017105">
+                  <nombre>Ana González Díaz</nombre>
+                  <genero>Femenino</genero>
+                  <correo>agonzález7105@estudiantec.cr</correo>
+                  <notas>29,1,49,27.2,27.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020049602">
+                  <nombre>Miguel Gómez Flores</nombre>
+                  <genero>Femenino</genero>
+                  <correo>mgómez9602@estudiantec.cr</correo>
+                  <notas>97,18,61,55.0,55.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020028947">
+                  <nombre>Elena Martínez Morales</nombre>
+                  <genero>Masculino</genero>
+                  <correo>emartínez8947@estudiantec.cr</correo>
+                  <notas>29,66,7,33.1,33.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020054244">
+                  <nombre>Carlos Acosta Castro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cacosta4244@estudiantec.cr</correo>
+                  <notas>49,19,23,28.1,28.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020056689">
+                  <nombre>Daniel Rivera Ramírez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>drivera6689@estudiantec.cr</correo>
+                  <notas>35,75,52,55.8,55.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020021909">
+                  <nombre>Jorge Chaves Vargas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jchaves1909@estudiantec.cr</correo>
+                  <notas>89,77,22,58.0,58.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2020034896">
+                  <nombre>Fernando Sánchez Chaves</nombre>
+                  <genero>Femenino</genero>
+                  <correo>fsánchez4896@estudiantec.cr</correo>
+                  <notas>30,35,18,26.9,26.9</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
       </Generación>
       <Generación año="2021">
-            <Estudiante carne="2021058956">
-                  <nombre>Elvera Cooper Thompson</nombre>
+            <Estudiante carne="2021052452">
+                  <nombre>Karen Harvey Jones</nombre>
                   <genero>Femenino</genero>
-                  <correo>ecooper8956@estudiantec.cr</correo>
-                  <notas>4,28,20,18.8,18.8</notas>
+                  <correo>kharvey2452@estudiantec.cr</correo>
+                  <notas>21,97,39,54.8,54.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021052035">
-                  <nombre>Brice Stangl Green</nombre>
-                  <genero>Masculino</genero>
-                  <correo>bstangl2035@estudiantec.cr</correo>
-                  <notas>27,78,78,65.2,65.2</notas>
+            <Estudiante carne="2021054321">
+                  <nombre>Linda Goins Wenger</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lgoins4321@estudiantec.cr</correo>
+                  <notas>40,61,78,62.5,62.5</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2021054610">
-                  <nombre>Peter Thomas Ussery</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pthomas4610@estudiantec.cr</correo>
-                  <notas>54,31,32,37.2,37.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021023695">
-                  <nombre>Troy Merna Cainne</nombre>
-                  <genero>Masculino</genero>
-                  <correo>tmerna3695@estudiantec.cr</correo>
-                  <notas>61,68,66,65.5,65.5</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2021024214">
-                  <nombre>Annamarie Butler Brown</nombre>
-                  <genero>Masculino</genero>
-                  <correo>abutler4214@estudiantec.cr</correo>
-                  <notas>91,26,30,43.9,43.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021049515">
-                  <nombre>Joyce Kasack Banks</nombre>
+            <Estudiante carne="2021031990">
+                  <nombre>Derrick Jackson Perez</nombre>
                   <genero>Femenino</genero>
-                  <correo>jkasack9515@estudiantec.cr</correo>
-                  <notas>50,2,54,34.8,34.8</notas>
+                  <correo>djackson1990@estudiantec.cr</correo>
+                  <notas>54,4,40,30.9,30.9</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021038743">
-                  <nombre>Daniel Richardson Thomas</nombre>
+            <Estudiante carne="2021053229">
+                  <nombre>Michael Cummings Geidl</nombre>
                   <genero>Masculino</genero>
-                  <correo>drichardson8743@estudiantec.cr</correo>
-                  <notas>85,89,43,69.6,69.6</notas>
-                  <estado>Reposición</estado>
+                  <correo>mcummings3229@estudiantec.cr</correo>
+                  <notas>65,43,4,32.9,32.9</notas>
+                  <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021062995">
-                  <nombre>Yong Myers Jessup</nombre>
+            <Estudiante carne="2021021338">
+                  <nombre>Dorothy Pollard Martin</nombre>
+                  <genero>Masculino</genero>
+                  <correo>dpollard1338@estudiantec.cr</correo>
+                  <notas>75,74,11,49.0,49.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021048600">
+                  <nombre>Peter Kafer Holcomb</nombre>
                   <genero>Femenino</genero>
-                  <correo>ymyers2995@estudiantec.cr</correo>
-                  <notas>9,44,11,22.0,22.0</notas>
+                  <correo>pkafer8600@estudiantec.cr</correo>
+                  <notas>15,75,5,32.0,32.0</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021048922">
-                  <nombre>Randolph Polk Adams</nombre>
+            <Estudiante carne="2021054117">
+                  <nombre>Leticia Little Whitten</nombre>
+                  <genero>Femenino</genero>
+                  <correo>llittle4117@estudiantec.cr</correo>
+                  <notas>100,16,30,42.6,42.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021014458">
+                  <nombre>Glenda Luttrell Vietti</nombre>
                   <genero>Masculino</genero>
-                  <correo>rpolk8922@estudiantec.cr</correo>
-                  <notas>95,72,62,73.8,73.8</notas>
+                  <correo>gluttrell4458@estudiantec.cr</correo>
+                  <notas>56,67,53,58.7,58.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021055978">
+                  <nombre>Franklin Cunningham Woods</nombre>
+                  <genero>Femenino</genero>
+                  <correo>fcunningham5978@estudiantec.cr</correo>
+                  <notas>28,95,6,42.6,42.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021017520">
+                  <nombre>Shawn Broaddus Barrentine</nombre>
+                  <genero>Masculino</genero>
+                  <correo>sbroaddus7520@estudiantec.cr</correo>
+                  <notas>77,95,92,89.3,89.3</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021041099">
-                  <nombre>Dorothy Huff Dolezal</nombre>
-                  <genero>Masculino</genero>
-                  <correo>dhuff1099@estudiantec.cr</correo>
-                  <notas>44,41,61,49.8,49.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021042732">
-                  <nombre>SofÃ­a SÃ¡nchez SÃ¡nchez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>ssã¡nchez2732@estudiantec.cr</correo>
-                  <notas>40,31,38,36.1,36.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021040591">
-                  <nombre>Jorge RamÃ­rez Castro</nombre>
+            <Estudiante carne="2021048656">
+                  <nombre>Grady Keys Nichols</nombre>
                   <genero>Femenino</genero>
-                  <correo>jramã­rez0591@estudiantec.cr</correo>
-                  <notas>15,67,33,40.4,40.4</notas>
-                  <estado>Reprobado</estado>
+                  <correo>gkeys8656@estudiantec.cr</correo>
+                  <notas>45,98,79,77.2,77.2</notas>
+                  <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021030479">
-                  <nombre>JosÃ© Solano Rivera</nombre>
+            <Estudiante carne="2021053204">
+                  <nombre>Lucía Chaves Castro</nombre>
                   <genero>Femenino</genero>
-                  <correo>jsolano0479@estudiantec.cr</correo>
-                  <notas>39,39,31,35.8,35.8</notas>
+                  <correo>lchaves3204@estudiantec.cr</correo>
+                  <notas>13,66,2,27.1,27.1</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021022298">
-                  <nombre>JosÃ© Navarro Flores</nombre>
+            <Estudiante carne="2021040341">
+                  <nombre>Fernando Rojas Solano</nombre>
                   <genero>Femenino</genero>
-                  <correo>jnavarro2298@estudiantec.cr</correo>
-                  <notas>30,30,86,52.4,52.4</notas>
+                  <correo>frojas0341@estudiantec.cr</correo>
+                  <notas>25,51,9,27.7,27.7</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021047231">
-                  <nombre>Jorge RamÃ­rez GonzÃ¡lez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jramã­rez7231@estudiantec.cr</correo>
-                  <notas>70,32,92,65.5,65.5</notas>
+            <Estudiante carne="2021028470">
+                  <nombre>Miguel González Mora</nombre>
+                  <genero>Femenino</genero>
+                  <correo>mgonzález8470@estudiantec.cr</correo>
+                  <notas>91,22,21,38.9,38.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021063810">
+                  <nombre>Lucía Vargas Ramírez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lvargas3810@estudiantec.cr</correo>
+                  <notas>46,48,56,50.7,50.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021064304">
+                  <nombre>Pedro Navarro Chaves</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pnavarro4304@estudiantec.cr</correo>
+                  <notas>11,88,82,66.3,66.3</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2021027498">
-                  <nombre>Laura Mora Navarro</nombre>
+            <Estudiante carne="2021056681">
+                  <nombre>José Chaves Díaz</nombre>
                   <genero>Femenino</genero>
-                  <correo>lmora7498@estudiantec.cr</correo>
-                  <notas>64,62,66,64.1,64.1</notas>
+                  <correo>jchaves6681@estudiantec.cr</correo>
+                  <notas>65,87,49,66.3,66.3</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2021013376">
-                  <nombre>Daniel RodrÃ­guez Rojas</nombre>
-                  <genero>Masculino</genero>
-                  <correo>drodrã­guez3376@estudiantec.cr</correo>
-                  <notas>33,32,7,22.2,22.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021051194">
-                  <nombre>JosÃ© Torres RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jtorres1194@estudiantec.cr</correo>
-                  <notas>94,23,33,44.8,44.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021053712">
-                  <nombre>Daniel Flores PÃ©rez</nombre>
+            <Estudiante carne="2021010474">
+                  <nombre>Fernando Chaves González</nombre>
                   <genero>Femenino</genero>
-                  <correo>dflores3712@estudiantec.cr</correo>
-                  <notas>39,99,83,77.6,77.6</notas>
+                  <correo>fchaves0474@estudiantec.cr</correo>
+                  <notas>27,84,12,41.0,41.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021023893">
+                  <nombre>Ana Navarro Ramírez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>anavarro3893@estudiantec.cr</correo>
+                  <notas>87,91,71,82.0,82.0</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021045473">
-                  <nombre>Daniel Rivera RamÃ­rez</nombre>
+            <Estudiante carne="2021048064">
+                  <nombre>Paula Castro Chaves</nombre>
                   <genero>Femenino</genero>
-                  <correo>drivera5473@estudiantec.cr</correo>
-                  <notas>39,3,42,27.6,27.6</notas>
-                  <estado>Reprobado</estado>
+                  <correo>pcastro8064@estudiantec.cr</correo>
+                  <notas>93,95,61,80.9,80.9</notas>
+                  <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021053460">
-                  <nombre>Ana RamÃ­rez Mora</nombre>
+            <Estudiante carne="2021017766">
+                  <nombre>Ana Ramírez Mora</nombre>
                   <genero>Femenino</genero>
-                  <correo>aramã­rez3460@estudiantec.cr</correo>
-                  <notas>3,16,36,20.8,20.8</notas>
+                  <correo>aramírez7766@estudiantec.cr</correo>
+                  <notas>92,11,50,46.9,46.9</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021062106">
-                  <nombre>Paula Rojas RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>projas2106@estudiantec.cr</correo>
-                  <notas>83,4,45,40.1,40.1</notas>
+            <Estudiante carne="2021058617">
+                  <nombre>Camila Ramírez Navarro</nombre>
+                  <genero>Femenino</genero>
+                  <correo>cramírez8617@estudiantec.cr</correo>
+                  <notas>51,5,61,38.9,38.9</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021022198">
-                  <nombre>SofÃ­a GonzÃ¡lez SÃ¡nchez</nombre>
+            <Estudiante carne="2021044344">
+                  <nombre>Lucía Castro Ramírez</nombre>
                   <genero>Masculino</genero>
-                  <correo>sgonzã¡lez2198@estudiantec.cr</correo>
-                  <notas>87,59,59,66.0,66.0</notas>
+                  <correo>lcastro4344@estudiantec.cr</correo>
+                  <notas>58,82,95,81.2,81.2</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021048268">
+                  <nombre>Pedro Morales Rojas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>pmorales8268@estudiantec.cr</correo>
+                  <notas>70,70,29,53.6,53.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021019680">
+                  <nombre>Elena Gómez Sánchez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>egómez9680@estudiantec.cr</correo>
+                  <notas>11,40,34,30.4,30.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021035191">
+                  <nombre>Camila Acosta Pérez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cacosta5191@estudiantec.cr</correo>
+                  <notas>21,17,100,51.2,51.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021032770">
+                  <nombre>Lucía Solano Torres</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lsolano2770@estudiantec.cr</correo>
+                  <notas>36,7,33,24.6,24.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021026210">
+                  <nombre>Elena Sánchez Rivera</nombre>
+                  <genero>Femenino</genero>
+                  <correo>esánchez6210@estudiantec.cr</correo>
+                  <notas>65,40,96,68.7,68.7</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2021037403">
-                  <nombre>Carlos Rivera DÃ­az</nombre>
+            <Estudiante carne="2021060616">
+                  <nombre>Camila Morales Castro</nombre>
                   <genero>Femenino</genero>
-                  <correo>crivera7403@estudiantec.cr</correo>
-                  <notas>76,27,16,34.9,34.9</notas>
-                  <estado>Reprobado</estado>
+                  <correo>cmorales0616@estudiantec.cr</correo>
+                  <notas>65,79,44,61.5,61.5</notas>
+                  <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2021054144">
-                  <nombre>Manuel RodrÃ­guez Mora</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrodrã­guez4144@estudiantec.cr</correo>
-                  <notas>21,92,6,39.8,39.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021028739">
-                  <nombre>Paula Navarro Navarro</nombre>
-                  <genero>Femenino</genero>
-                  <correo>pnavarro8739@estudiantec.cr</correo>
-                  <notas>51,42,81,59.8,59.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021035513">
-                  <nombre>Jorge Rivera GÃ³mez</nombre>
+            <Estudiante carne="2021040397">
+                  <nombre>Ana Mora Acosta</nombre>
                   <genero>Masculino</genero>
-                  <correo>jrivera5513@estudiantec.cr</correo>
-                  <notas>72,5,8,22.9,22.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021028991">
-                  <nombre>Luis Solano DÃ­az</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lsolano8991@estudiantec.cr</correo>
-                  <notas>16,36,72,45.4,45.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021043482">
-                  <nombre>Fernando Solano PÃ©rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>fsolano3482@estudiantec.cr</correo>
-                  <notas>31,84,97,76.0,76.0</notas>
+                  <correo>amora0397@estudiantec.cr</correo>
+                  <notas>85,59,71,70.3,70.3</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021058167">
-                  <nombre>Gabriela RodrÃ­guez RamÃ­rez</nombre>
+            <Estudiante carne="2021012524">
+                  <nombre>Paula Rojas Castro</nombre>
                   <genero>Masculino</genero>
-                  <correo>grodrã­guez8167@estudiantec.cr</correo>
-                  <notas>30,53,27,36.8,36.8</notas>
+                  <correo>projas2524@estudiantec.cr</correo>
+                  <notas>21,8,37,22.9,22.9</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021039467">
-                  <nombre>AndrÃ©s Morales Flores</nombre>
+            <Estudiante carne="2021013762">
+                  <nombre>José Chaves Vargas</nombre>
                   <genero>Femenino</genero>
-                  <correo>amorales9467@estudiantec.cr</correo>
-                  <notas>53,57,27,44.0,44.0</notas>
+                  <correo>jchaves3762@estudiantec.cr</correo>
+                  <notas>59,79,37,57.2,57.2</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021041273">
-                  <nombre>MarÃ­a Rojas Rivera</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrojas1273@estudiantec.cr</correo>
-                  <notas>68,84,94,84.0,84.0</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021058379">
-                  <nombre>Daniel GÃ³mez Chaves</nombre>
-                  <genero>Femenino</genero>
-                  <correo>dgã³mez8379@estudiantec.cr</correo>
-                  <notas>84,96,49,74.2,74.2</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021039828">
-                  <nombre>Fernando SÃ¡nchez Chaves</nombre>
-                  <genero>Femenino</genero>
-                  <correo>fsã¡nchez9828@estudiantec.cr</correo>
-                  <notas>36,69,37,48.0,48.0</notas>
+            <Estudiante carne="2021019977">
+                  <nombre>Camila Pérez Solano</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cpérez9977@estudiantec.cr</correo>
+                  <notas>38,50,55,49.0,49.0</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021020184">
+            <Estudiante carne="2021069944">
                   <nombre>Manuel Navarro Morales</nombre>
                   <genero>Masculino</genero>
-                  <correo>mnavarro0184@estudiantec.cr</correo>
-                  <notas>76,100,90,90.0,90.0</notas>
+                  <correo>mnavarro9944@estudiantec.cr</correo>
+                  <notas>27,25,66,41.9,41.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021039520">
+                  <nombre>Laura Castro Pérez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lcastro9520@estudiantec.cr</correo>
+                  <notas>9,84,100,71.7,71.7</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021015351">
-                  <nombre>Daniel DÃ­az Vargas</nombre>
+            <Estudiante carne="2021025109">
+                  <nombre>Lucía Navarro Gómez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lnavarro5109@estudiantec.cr</correo>
+                  <notas>88,88,10,56.8,56.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2021055816">
+                  <nombre>Lucía Pérez Vargas</nombre>
                   <genero>Femenino</genero>
-                  <correo>ddã­az5351@estudiantec.cr</correo>
-                  <notas>89,67,39,61.3,61.3</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2021067065">
-                  <nombre>Miguel Mora Mora</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mmora7065@estudiantec.cr</correo>
-                  <notas>93,68,64,72.7,72.7</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021017371">
-                  <nombre>JosÃ© RamÃ­rez Acosta</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jramã­rez7371@estudiantec.cr</correo>
-                  <notas>56,100,13,54.2,54.2</notas>
+                  <correo>lpérez5816@estudiantec.cr</correo>
+                  <notas>59,13,62,44.1,44.1</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021020568">
-                  <nombre>Luis Morales RamÃ­rez</nombre>
+            <Estudiante carne="2021062183">
+                  <nombre>Manuel Solano Rivera</nombre>
                   <genero>Masculino</genero>
-                  <correo>lmorales0568@estudiantec.cr</correo>
-                  <notas>6,61,62,47.6,47.6</notas>
+                  <correo>msolano2183@estudiantec.cr</correo>
+                  <notas>66,11,43,37.5,37.5</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2021010272">
-                  <nombre>Laura MartÃ­nez DÃ­az</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lmartã­nez0272@estudiantec.cr</correo>
-                  <notas>7,7,88,39.4,39.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021053169">
-                  <nombre>Manuel PÃ©rez PÃ©rez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mpã©rez3169@estudiantec.cr</correo>
-                  <notas>71,69,19,49.5,49.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021047092">
-                  <nombre>Luis Vargas RamÃ­rez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lvargas7092@estudiantec.cr</correo>
-                  <notas>47,48,56,51.0,51.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021025089">
-                  <nombre>Fernando GonzÃ¡lez RamÃ­rez</nombre>
+            <Estudiante carne="2021046291">
+                  <nombre>Laura Flores Torres</nombre>
                   <genero>Masculino</genero>
-                  <correo>fgonzã¡lez5089@estudiantec.cr</correo>
-                  <notas>59,65,51,57.9,57.9</notas>
+                  <correo>lflores6291@estudiantec.cr</correo>
+                  <notas>28,25,38,31.0,31.0</notas>
                   <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021067115">
-                  <nombre>MarÃ­a Navarro SÃ¡nchez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mnavarro7115@estudiantec.cr</correo>
-                  <notas>66,17,11,26.9,26.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021060790">
-                  <nombre>Manuel Vargas MartÃ­nez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mvargas0790@estudiantec.cr</correo>
-                  <notas>23,33,28,28.5,28.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021067246">
-                  <nombre>Paula Solano RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>psolano7246@estudiantec.cr</correo>
-                  <notas>82,44,23,45.1,45.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021017643">
-                  <nombre>Paula Acosta Castro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pacosta7643@estudiantec.cr</correo>
-                  <notas>52,48,87,64.6,64.6</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2021027297">
-                  <nombre>Laura Torres Morales</nombre>
-                  <genero>Masculino</genero>
-                  <correo>ltorres7297@estudiantec.cr</correo>
-                  <notas>64,82,92,81.5,81.5</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021011055">
-                  <nombre>Pedro Navarro MartÃ­nez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pnavarro1055@estudiantec.cr</correo>
-                  <notas>71,58,10,42.0,42.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021043409">
-                  <nombre>Daniel Vargas Flores</nombre>
-                  <genero>Femenino</genero>
-                  <correo>dvargas3409@estudiantec.cr</correo>
-                  <notas>16,16,69,37.2,37.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021059583">
-                  <nombre>Manuel Flores Navarro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mflores9583@estudiantec.cr</correo>
-                  <notas>27,21,60,38.1,38.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2021010570">
-                  <nombre>SofÃ­a Morales SÃ¡nchez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>smorales0570@estudiantec.cr</correo>
-                  <notas>48,88,45,60.8,60.8</notas>
-                  <estado>Reposición</estado>
             </Estudiante>
       </Generación>
       <Generación año="2022">
-            <Estudiante carne="2022022641">
-                  <nombre>Milton Schindele Letendre</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mschindele2641@estudiantec.cr</correo>
-                  <notas>96,92,6,58.6,58.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022067507">
-                  <nombre>Annie Poe Couch</nombre>
+            <Estudiante carne="2022030998">
+                  <nombre>Rosalia Whitman Moster</nombre>
                   <genero>Femenino</genero>
-                  <correo>apoe7507@estudiantec.cr</correo>
-                  <notas>10,7,14,10.6,10.6</notas>
+                  <correo>rwhitman0998@estudiantec.cr</correo>
+                  <notas>72,60,47,57.8,57.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022018281">
-                  <nombre>Ellyn Burke Heredia</nombre>
+            <Estudiante carne="2022057292">
+                  <nombre>Judith Horn Cearns</nombre>
                   <genero>Masculino</genero>
-                  <correo>eburke8281@estudiantec.cr</correo>
-                  <notas>19,50,74,51.9,51.9</notas>
+                  <correo>jhorn7292@estudiantec.cr</correo>
+                  <notas>56,47,43,47.6,47.6</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022024164">
-                  <nombre>Betty Smith Helm</nombre>
+            <Estudiante carne="2022042425">
+                  <nombre>Jessie Kelly Zenon</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jkelly2425@estudiantec.cr</correo>
+                  <notas>81,5,92,58.8,58.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022027068">
+                  <nombre>John White Fournier</nombre>
                   <genero>Femenino</genero>
-                  <correo>bsmith4164@estudiantec.cr</correo>
-                  <notas>84,21,66,54.8,54.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022060254">
-                  <nombre>Louisa Rusnak Wilson</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lrusnak0254@estudiantec.cr</correo>
-                  <notas>85,90,55,74.8,74.8</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022029391">
-                  <nombre>Alba Gardner Sloan</nombre>
-                  <genero>Masculino</genero>
-                  <correo>agardner9391@estudiantec.cr</correo>
-                  <notas>26,43,63,46.8,46.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022052738">
-                  <nombre>Thomas Hurd Crim</nombre>
-                  <genero>Femenino</genero>
-                  <correo>thurd2738@estudiantec.cr</correo>
-                  <notas>21,41,2,20.4,20.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022050920">
-                  <nombre>Paula Navarro Torres</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pnavarro0920@estudiantec.cr</correo>
-                  <notas>42,62,49,51.8,51.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022018658">
-                  <nombre>Luis PÃ©rez Rojas</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lpã©rez8658@estudiantec.cr</correo>
-                  <notas>81,57,42,57.0,57.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022027241">
-                  <nombre>Ana RodrÃ­guez PÃ©rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>arodrã­guez7241@estudiantec.cr</correo>
-                  <notas>14,47,37,34.8,34.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022017939">
-                  <nombre>Pedro Navarro Chaves</nombre>
-                  <genero>Femenino</genero>
-                  <correo>pnavarro7939@estudiantec.cr</correo>
-                  <notas>32,99,8,45.9,45.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022031695">
-                  <nombre>Manuel Chaves Solano</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mchaves1695@estudiantec.cr</correo>
-                  <notas>60,31,23,35.1,35.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022025427">
-                  <nombre>MarÃ­a Castro MartÃ­nez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mcastro5427@estudiantec.cr</correo>
-                  <notas>95,47,64,65.8,65.8</notas>
+                  <correo>jwhite7068@estudiantec.cr</correo>
+                  <notas>25,86,83,69.5,69.5</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2022022726">
-                  <nombre>Manuel Acosta SÃ¡nchez</nombre>
+            <Estudiante carne="2022058417">
+                  <nombre>Lincoln Ketchum Oliveros</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lketchum8417@estudiantec.cr</correo>
+                  <notas>81,48,49,56.6,56.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022033336">
+                  <nombre>Michelle Cardenas Hong</nombre>
                   <genero>Femenino</genero>
-                  <correo>macosta2726@estudiantec.cr</correo>
-                  <notas>91,64,75,75.2,75.2</notas>
+                  <correo>mcardenas3336@estudiantec.cr</correo>
+                  <notas>41,21,54,39.2,39.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022062689">
+                  <nombre>Casey Mackey Thomas</nombre>
+                  <genero>Femenino</genero>
+                  <correo>cmackey2689@estudiantec.cr</correo>
+                  <notas>55,66,95,74.8,74.8</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022059451">
-                  <nombre>Luis SÃ¡nchez Torres</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lsã¡nchez9451@estudiantec.cr</correo>
-                  <notas>97,2,6,27.4,27.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022043210">
-                  <nombre>Laura GÃ³mez RodrÃ­guez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lgã³mez3210@estudiantec.cr</correo>
-                  <notas>4,55,13,25.4,25.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022016923">
-                  <nombre>Elena Vargas Chaves</nombre>
+            <Estudiante carne="2022058509">
+                  <nombre>Steve Munoz Davis</nombre>
                   <genero>Masculino</genero>
-                  <correo>evargas6923@estudiantec.cr</correo>
-                  <notas>73,18,73,53.8,53.8</notas>
-                  <estado>Reprobado</estado>
+                  <correo>smunoz8509@estudiantec.cr</correo>
+                  <notas>13,85,90,69.0,69.0</notas>
+                  <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2022055956">
-                  <nombre>Fernando GÃ³mez RodrÃ­guez</nombre>
+            <Estudiante carne="2022039047">
+                  <nombre>Joyce Sinclair Manning</nombre>
                   <genero>Masculino</genero>
-                  <correo>fgã³mez5956@estudiantec.cr</correo>
-                  <notas>1,60,92,58.1,58.1</notas>
-                  <estado>Reprobado</estado>
+                  <correo>jsinclair9047@estudiantec.cr</correo>
+                  <notas>94,62,96,83.6,83.6</notas>
+                  <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022056066">
-                  <nombre>Ana SÃ¡nchez Morales</nombre>
+            <Estudiante carne="2022067082">
+                  <nombre>Rhoda Pangallo Englert</nombre>
                   <genero>Femenino</genero>
-                  <correo>asã¡nchez6066@estudiantec.cr</correo>
-                  <notas>27,83,44,53.4,53.4</notas>
+                  <correo>rpangallo7082@estudiantec.cr</correo>
+                  <notas>36,37,56,44.4,44.4</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022067856">
+            <Estudiante carne="2022040781">
+                  <nombre>Carlos Solano González</nombre>
+                  <genero>Femenino</genero>
+                  <correo>csolano0781@estudiantec.cr</correo>
+                  <notas>8,54,69,48.5,48.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022017609">
+                  <nombre>Pedro Navarro Acosta</nombre>
+                  <genero>Masculino</genero>
+                  <correo>pnavarro7609@estudiantec.cr</correo>
+                  <notas>44,19,87,52.5,52.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022069866">
+                  <nombre>Gabriela Mora Castro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>gmora9866@estudiantec.cr</correo>
+                  <notas>82,73,99,85.7,85.7</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022022498">
+                  <nombre>Sofía Morales Rodríguez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>smorales2498@estudiantec.cr</correo>
+                  <notas>27,66,66,56.2,56.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022017775">
+                  <nombre>Manuel Solano Rodríguez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>msolano7775@estudiantec.cr</correo>
+                  <notas>22,17,81,43.8,43.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022051412">
+                  <nombre>Paula Mora Martínez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pmora1412@estudiantec.cr</correo>
+                  <notas>85,56,88,76.0,76.0</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022062995">
+                  <nombre>Gabriela Martínez Acosta</nombre>
+                  <genero>Femenino</genero>
+                  <correo>gmartínez2995@estudiantec.cr</correo>
+                  <notas>37,77,25,46.2,46.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022013129">
+                  <nombre>Luis Rodríguez Pérez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lrodríguez3129@estudiantec.cr</correo>
+                  <notas>30,67,27,41.8,41.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022019281">
+                  <nombre>José Ramírez Martínez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jramírez9281@estudiantec.cr</correo>
+                  <notas>51,93,8,48.5,48.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022061872">
+                  <nombre>José Martínez Díaz</nombre>
+                  <genero>Femenino</genero>
+                  <correo>jmartínez1872@estudiantec.cr</correo>
+                  <notas>28,32,42,35.0,35.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022011813">
+                  <nombre>Paula Ramírez Flores</nombre>
+                  <genero>Masculino</genero>
+                  <correo>pramírez1813@estudiantec.cr</correo>
+                  <notas>21,83,87,69.1,69.1</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2022046382">
+                  <nombre>Manuel Vargas Martínez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mvargas6382@estudiantec.cr</correo>
+                  <notas>57,75,20,48.5,48.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022041645">
+                  <nombre>Gabriela Martínez Martínez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>gmartínez1645@estudiantec.cr</correo>
+                  <notas>40,22,13,22.9,22.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022013736">
                   <nombre>Valeria Flores Rojas</nombre>
                   <genero>Masculino</genero>
-                  <correo>vflores7856@estudiantec.cr</correo>
-                  <notas>18,72,22,38.5,38.5</notas>
+                  <correo>vflores3736@estudiantec.cr</correo>
+                  <notas>75,35,51,51.4,51.4</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022047723">
-                  <nombre>Miguel Rojas RodrÃ­guez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrojas7723@estudiantec.cr</correo>
-                  <notas>89,58,8,45.8,45.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022043875">
-                  <nombre>LucÃ­a Solano Torres</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lsolano3875@estudiantec.cr</correo>
-                  <notas>46,73,90,73.0,73.0</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022038698">
-                  <nombre>AndrÃ©s Navarro RodrÃ­guez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>anavarro8698@estudiantec.cr</correo>
-                  <notas>44,67,89,70.1,70.1</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022017490">
-                  <nombre>Jorge Flores Vargas</nombre>
+            <Estudiante carne="2022061484">
+                  <nombre>Ana Rojas Acosta</nombre>
                   <genero>Masculino</genero>
-                  <correo>jflores7490@estudiantec.cr</correo>
-                  <notas>16,54,33,36.1,36.1</notas>
+                  <correo>arojas1484@estudiantec.cr</correo>
+                  <notas>7,37,100,54.7,54.7</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022034848">
-                  <nombre>Carlos Rojas Rojas</nombre>
+            <Estudiante carne="2022050984">
+                  <nombre>Fernando Pérez Martínez</nombre>
                   <genero>Masculino</genero>
-                  <correo>crojas4848@estudiantec.cr</correo>
-                  <notas>28,24,84,49.0,49.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022047983">
-                  <nombre>Jorge DÃ­az PÃ©rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jdã­az7983@estudiantec.cr</correo>
-                  <notas>34,91,24,49.9,49.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022046353">
-                  <nombre>SofÃ­a Torres Vargas</nombre>
-                  <genero>Femenino</genero>
-                  <correo>storres6353@estudiantec.cr</correo>
-                  <notas>72,13,98,61.8,61.8</notas>
+                  <correo>fpérez0984@estudiantec.cr</correo>
+                  <notas>26,93,77,69.8,69.8</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2022051753">
-                  <nombre>Jorge SÃ¡nchez GÃ³mez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jsã¡nchez1753@estudiantec.cr</correo>
-                  <notas>85,97,4,56.8,56.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022022241">
-                  <nombre>Daniel SÃ¡nchez RodrÃ­guez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>dsã¡nchez2241@estudiantec.cr</correo>
-                  <notas>37,88,6,42.4,42.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022010906">
-                  <nombre>Pedro Chaves Rivera</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pchaves0906@estudiantec.cr</correo>
-                  <notas>18,6,28,17.8,17.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022022928">
-                  <nombre>SofÃ­a Torres Solano</nombre>
+            <Estudiante carne="2022038551">
+                  <nombre>Fernando Pérez Díaz</nombre>
                   <genero>Femenino</genero>
-                  <correo>storres2928@estudiantec.cr</correo>
-                  <notas>81,79,92,84.7,84.7</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022035264">
-                  <nombre>Luis Castro DÃ­az</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lcastro5264@estudiantec.cr</correo>
-                  <notas>85,97,8,58.4,58.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022028743">
-                  <nombre>Camila PÃ©rez Solano</nombre>
-                  <genero>Masculino</genero>
-                  <correo>cpã©rez8743@estudiantec.cr</correo>
-                  <notas>92,59,97,82.5,82.5</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022021251">
-                  <nombre>Carlos Rojas RodrÃ­guez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>crojas1251@estudiantec.cr</correo>
-                  <notas>58,12,7,21.5,21.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022058414">
-                  <nombre>SofÃ­a Castro Castro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>scastro8414@estudiantec.cr</correo>
-                  <notas>91,6,89,60.5,60.5</notas>
+                  <correo>fpérez8551@estudiantec.cr</correo>
+                  <notas>65,54,75,65.2,65.2</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2022048053">
-                  <nombre>SofÃ­a GÃ³mez Castro</nombre>
+            <Estudiante carne="2022025051">
+                  <nombre>Miguel Torres Ramírez</nombre>
                   <genero>Masculino</genero>
-                  <correo>sgã³mez8053@estudiantec.cr</correo>
-                  <notas>32,43,96,61.5,61.5</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2022026038">
-                  <nombre>LucÃ­a DÃ­az PÃ©rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>ldã­az6038@estudiantec.cr</correo>
-                  <notas>56,98,92,85.1,85.1</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022027634">
-                  <nombre>Ana Navarro RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>anavarro7634@estudiantec.cr</correo>
-                  <notas>43,77,57,60.5,60.5</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2022050571">
-                  <nombre>Daniel Rivera Acosta</nombre>
-                  <genero>Femenino</genero>
-                  <correo>drivera0571@estudiantec.cr</correo>
-                  <notas>92,61,28,55.5,55.5</notas>
+                  <correo>mtorres5051@estudiantec.cr</correo>
+                  <notas>21,9,92,45.2,45.2</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022030687">
-                  <nombre>Daniel Mora DÃ­az</nombre>
-                  <genero>Femenino</genero>
-                  <correo>dmora0687@estudiantec.cr</correo>
-                  <notas>60,91,90,82.8,82.8</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022045193">
-                  <nombre>MarÃ­a Solano RodrÃ­guez</nombre>
+            <Estudiante carne="2022023894">
+                  <nombre>Jorge Mora Sánchez</nombre>
                   <genero>Masculino</genero>
-                  <correo>msolano5193@estudiantec.cr</correo>
-                  <notas>77,74,71,73.5,73.5</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022018926">
-                  <nombre>Gabriela SÃ¡nchez DÃ­az</nombre>
-                  <genero>Masculino</genero>
-                  <correo>gsã¡nchez8926@estudiantec.cr</correo>
-                  <notas>100,9,80,60.1,60.1</notas>
+                  <correo>jmora3894@estudiantec.cr</correo>
+                  <notas>80,100,37,69.8,69.8</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2022039749">
-                  <nombre>Pedro Morales Rojas</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pmorales9749@estudiantec.cr</correo>
-                  <notas>71,62,92,76.2,76.2</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2022042066">
-                  <nombre>Fernando Rivera Navarro</nombre>
+            <Estudiante carne="2022038672">
+                  <nombre>Valeria Sánchez Morales</nombre>
                   <genero>Femenino</genero>
-                  <correo>frivera2066@estudiantec.cr</correo>
-                  <notas>11,74,39,44.2,44.2</notas>
+                  <correo>vsánchez8672@estudiantec.cr</correo>
+                  <notas>65,16,23,31.1,31.1</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022068031">
-                  <nombre>Manuel SÃ¡nchez Acosta</nombre>
+            <Estudiante carne="2022062178">
+                  <nombre>Sofía Gómez Gómez</nombre>
                   <genero>Femenino</genero>
-                  <correo>msã¡nchez8031@estudiantec.cr</correo>
-                  <notas>55,59,8,37.6,37.6</notas>
+                  <correo>sgómez2178@estudiantec.cr</correo>
+                  <notas>16,100,37,53.8,53.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022067302">
-                  <nombre>Luis RodrÃ­guez GonzÃ¡lez</nombre>
+            <Estudiante carne="2022047008">
+                  <nombre>Jorge Castro Acosta</nombre>
                   <genero>Femenino</genero>
-                  <correo>lrodrã­guez7302@estudiantec.cr</correo>
-                  <notas>70,93,47,68.8,68.8</notas>
-                  <estado>Reposición</estado>
+                  <correo>jcastro7008@estudiantec.cr</correo>
+                  <notas>83,42,16,41.9,41.9</notas>
+                  <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022048157">
-                  <nombre>Miguel Morales GonzÃ¡lez</nombre>
+            <Estudiante carne="2022015217">
+                  <nombre>Sofía Mora Vargas</nombre>
                   <genero>Femenino</genero>
-                  <correo>mmorales8157@estudiantec.cr</correo>
-                  <notas>85,73,74,76.4,76.4</notas>
-                  <estado>Aprobado</estado>
+                  <correo>smora5217@estudiantec.cr</correo>
+                  <notas>93,6,48,44.6,44.6</notas>
+                  <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2022054867">
-                  <nombre>Miguel Torres RamÃ­rez</nombre>
+            <Estudiante carne="2022016293">
+                  <nombre>Daniel Díaz Mora</nombre>
                   <genero>Masculino</genero>
-                  <correo>mtorres4867@estudiantec.cr</correo>
-                  <notas>84,90,27,63.3,63.3</notas>
+                  <correo>ddíaz6293@estudiantec.cr</correo>
+                  <notas>15,20,83,44.0,44.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022026691">
+                  <nombre>Valeria Mora Navarro</nombre>
+                  <genero>Femenino</genero>
+                  <correo>vmora6691@estudiantec.cr</correo>
+                  <notas>4,47,29,29.1,29.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022012480">
+                  <nombre>María Morales Torres</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mmorales2480@estudiantec.cr</correo>
+                  <notas>41,48,83,60.2,60.2</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2022056285">
-                  <nombre>SofÃ­a GÃ³mez GÃ³mez</nombre>
+            <Estudiante carne="2022050320">
+                  <nombre>Valeria Ramírez Solano</nombre>
+                  <genero>Masculino</genero>
+                  <correo>vramírez0320@estudiantec.cr</correo>
+                  <notas>50,11,4,18.0,18.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022013584">
+                  <nombre>Miguel Solano Navarro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>msolano3584@estudiantec.cr</correo>
+                  <notas>73,9,88,56.6,56.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022040424">
+                  <nombre>Camila Rivera Chaves</nombre>
                   <genero>Femenino</genero>
-                  <correo>sgã³mez6285@estudiantec.cr</correo>
-                  <notas>27,63,70,56.8,56.8</notas>
+                  <correo>crivera0424@estudiantec.cr</correo>
+                  <notas>48,14,42,33.7,33.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022036574">
+                  <nombre>Jorge Martínez Rodríguez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>jmartínez6574@estudiantec.cr</correo>
+                  <notas>83,33,40,48.3,48.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022010106">
+                  <nombre>Paula Navarro González</nombre>
+                  <genero>Masculino</genero>
+                  <correo>pnavarro0106@estudiantec.cr</correo>
+                  <notas>42,16,41,32.5,32.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022045403">
+                  <nombre>Elena Morales Flores</nombre>
+                  <genero>Masculino</genero>
+                  <correo>emorales5403@estudiantec.cr</correo>
+                  <notas>90,72,16,54.1,54.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022027125">
+                  <nombre>Gabriela Acosta Torres</nombre>
+                  <genero>Masculino</genero>
+                  <correo>gacosta7125@estudiantec.cr</correo>
+                  <notas>28,77,82,66.8,66.8</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2022066464">
+                  <nombre>Luis Castro Díaz</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lcastro6464@estudiantec.cr</correo>
+                  <notas>14,84,48,52.1,52.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022050373">
+                  <nombre>Jorge Morales Chaves</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jmorales0373@estudiantec.cr</correo>
+                  <notas>91,43,33,51.0,51.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022048398">
+                  <nombre>Gabriela Morales Sánchez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>gmorales8398@estudiantec.cr</correo>
+                  <notas>3,66,81,56.2,56.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022037394">
+                  <nombre>Daniel Díaz Vargas</nombre>
+                  <genero>Femenino</genero>
+                  <correo>ddíaz7394@estudiantec.cr</correo>
+                  <notas>49,47,8,31.9,31.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2022065701">
+                  <nombre>Fernando Chaves Solano</nombre>
+                  <genero>Masculino</genero>
+                  <correo>fchaves5701@estudiantec.cr</correo>
+                  <notas>9,68,19,33.6,33.6</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
       </Generación>
       <Generación año="2023">
-            <Estudiante carne="2023057320">
-                  <nombre>Odessa Duke Buckley</nombre>
-                  <genero>Femenino</genero>
-                  <correo>oduke7320@estudiantec.cr</correo>
-                  <notas>63,4,25,27.1,27.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023062532">
-                  <nombre>John Barnett Thomas</nombre>
+            <Estudiante carne="2023064987">
+                  <nombre>Victoria Baker Simonis</nombre>
                   <genero>Masculino</genero>
-                  <correo>jbarnett2532@estudiantec.cr</correo>
-                  <notas>1,65,2,23.8,23.8</notas>
+                  <correo>vbaker4987@estudiantec.cr</correo>
+                  <notas>95,3,17,31.6,31.6</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023025998">
-                  <nombre>Darlene Lohr Carroll</nombre>
+            <Estudiante carne="2023048246">
+                  <nombre>John Salazar Chapmon</nombre>
                   <genero>Masculino</genero>
-                  <correo>dlohr5998@estudiantec.cr</correo>
-                  <notas>43,39,53,45.6,45.6</notas>
+                  <correo>jsalazar8246@estudiantec.cr</correo>
+                  <notas>33,9,82,44.2,44.2</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023015948">
-                  <nombre>Felix Spueler Chartier</nombre>
-                  <genero>Femenino</genero>
-                  <correo>fspueler5948@estudiantec.cr</correo>
-                  <notas>60,81,40,59.3,59.3</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023015461">
-                  <nombre>Jonathan Robinson Riley</nombre>
+            <Estudiante carne="2023026033">
+                  <nombre>Sarah Amador Pace</nombre>
                   <genero>Masculino</genero>
-                  <correo>jrobinson5461@estudiantec.cr</correo>
-                  <notas>88,69,66,72.5,72.5</notas>
+                  <correo>samador6033@estudiantec.cr</correo>
+                  <notas>61,79,38,58.1,58.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023018314">
+                  <nombre>Mary Armand Chung</nombre>
+                  <genero>Masculino</genero>
+                  <correo>marmand8314@estudiantec.cr</correo>
+                  <notas>18,32,83,48.9,48.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023034971">
+                  <nombre>Martin Mccaffrey Woodward</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mmccaffrey4971@estudiantec.cr</correo>
+                  <notas>60,67,85,72.5,72.5</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023015429">
-                  <nombre>Kay Seligman Leno</nombre>
-                  <genero>Femenino</genero>
-                  <correo>kseligman5429@estudiantec.cr</correo>
-                  <notas>26,12,91,47.1,47.1</notas>
+            <Estudiante carne="2023066583">
+                  <nombre>Joann Noble Mcdowell</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jnoble6583@estudiantec.cr</correo>
+                  <notas>41,70,20,42.8,42.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023042314">
-                  <nombre>Florence Campbell Chairez</nombre>
+            <Estudiante carne="2023026150">
+                  <nombre>Daniel Huelskamp Pruitt</nombre>
                   <genero>Femenino</genero>
-                  <correo>fcampbell2314@estudiantec.cr</correo>
-                  <notas>90,84,55,73.9,73.9</notas>
+                  <correo>dhuelskamp6150@estudiantec.cr</correo>
+                  <notas>58,64,18,44.1,44.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023019360">
+                  <nombre>Christopher White Powell</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cwhite9360@estudiantec.cr</correo>
+                  <notas>44,73,58,59.8,59.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023060604">
+                  <nombre>Katherine Holifeild Hunter</nombre>
+                  <genero>Masculino</genero>
+                  <correo>kholifeild0604@estudiantec.cr</correo>
+                  <notas>75,91,41,67.0,67.0</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2023018446">
+                  <nombre>Daniel Rivera Acosta</nombre>
+                  <genero>Femenino</genero>
+                  <correo>drivera8446@estudiantec.cr</correo>
+                  <notas>87,56,29,52.9,52.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023019403">
+                  <nombre>Miguel Rojas Rodríguez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>mrojas9403@estudiantec.cr</correo>
+                  <notas>1,13,26,15.2,15.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023024221">
+                  <nombre>Paula Navarro Navarro</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pnavarro4221@estudiantec.cr</correo>
+                  <notas>60,26,18,31.3,31.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023064237">
+                  <nombre>Andrés Sánchez Flores</nombre>
+                  <genero>Masculino</genero>
+                  <correo>asánchez4237@estudiantec.cr</correo>
+                  <notas>2,55,26,30.1,30.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023014940">
+                  <nombre>Carlos Acosta Vargas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cacosta4940@estudiantec.cr</correo>
+                  <notas>38,44,41,41.3,41.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023061182">
+                  <nombre>Lucía Solano Castro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lsolano1182@estudiantec.cr</correo>
+                  <notas>56,44,70,57.4,57.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023062714">
+                  <nombre>Paula Castro Pérez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pcastro2714@estudiantec.cr</correo>
+                  <notas>33,45,2,24.8,24.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023027066">
+                  <nombre>Fernando Flores Martínez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>fflores7066@estudiantec.cr</correo>
+                  <notas>73,4,64,45.2,45.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023041257">
+                  <nombre>Laura Vargas Morales</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lvargas1257@estudiantec.cr</correo>
+                  <notas>60,100,70,78.0,78.0</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023039561">
-                  <nombre>Pat Quinnie Patton</nombre>
+            <Estudiante carne="2023012634">
+                  <nombre>Daniel Morales Rojas</nombre>
                   <genero>Femenino</genero>
-                  <correo>pquinnie9561@estudiantec.cr</correo>
-                  <notas>24,48,98,62.0,62.0</notas>
-                  <estado>Reposición</estado>
+                  <correo>dmorales2634@estudiantec.cr</correo>
+                  <notas>14,11,71,35.8,35.8</notas>
+                  <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023037872">
-                  <nombre>Larry Harvey Harris</nombre>
+            <Estudiante carne="2023028793">
+                  <nombre>Sofía Torres Solano</nombre>
                   <genero>Femenino</genero>
-                  <correo>lharvey7872@estudiantec.cr</correo>
-                  <notas>52,28,93,60.0,60.0</notas>
-                  <estado>Reposición</estado>
+                  <correo>storres8793@estudiantec.cr</correo>
+                  <notas>63,21,7,25.9,25.9</notas>
+                  <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023032906">
-                  <nombre>Karoline Norman Martin</nombre>
+            <Estudiante carne="2023040589">
+                  <nombre>Jorge Ramírez Castro</nombre>
+                  <genero>Femenino</genero>
+                  <correo>jramírez0589@estudiantec.cr</correo>
+                  <notas>1,71,27,35.9,35.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023031407">
+                  <nombre>Lucía Morales Morales</nombre>
                   <genero>Masculino</genero>
-                  <correo>knorman2906@estudiantec.cr</correo>
-                  <notas>12,44,9,22.0,22.0</notas>
+                  <correo>lmorales1407@estudiantec.cr</correo>
+                  <notas>49,24,84,54.2,54.2</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023012726">
-                  <nombre>William Leon Brown</nombre>
+            <Estudiante carne="2023027174">
+                  <nombre>Daniel Martínez Torres</nombre>
+                  <genero>Femenino</genero>
+                  <correo>dmartínez7174@estudiantec.cr</correo>
+                  <notas>7,49,14,24.5,24.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023029900">
+                  <nombre>Miguel Chaves Morales</nombre>
+                  <genero>Femenino</genero>
+                  <correo>mchaves9900@estudiantec.cr</correo>
+                  <notas>99,1,53,46.3,46.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023029593">
+                  <nombre>Luis Pérez Navarro</nombre>
                   <genero>Masculino</genero>
-                  <correo>wleon2726@estudiantec.cr</correo>
-                  <notas>80,45,61,60.2,60.2</notas>
-                  <estado>Reposición</estado>
+                  <correo>lpérez9593@estudiantec.cr</correo>
+                  <notas>14,96,39,52.7,52.7</notas>
+                  <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023060987">
-                  <nombre>Manuel MartÃ­nez Rivera</nombre>
+            <Estudiante carne="2023014142">
+                  <nombre>Manuel Chaves Mora</nombre>
+                  <genero>Femenino</genero>
+                  <correo>mchaves4142@estudiantec.cr</correo>
+                  <notas>28,94,31,52.3,52.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023053985">
+                  <nombre>Carlos Rojas Rodríguez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>crojas3985@estudiantec.cr</correo>
+                  <notas>5,59,89,57.5,57.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023027516">
+                  <nombre>Lucía Martínez Rivera</nombre>
                   <genero>Masculino</genero>
-                  <correo>mmartã­nez0987@estudiantec.cr</correo>
-                  <notas>63,65,46,56.9,56.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023029206">
-                  <nombre>Manuel Rivera RodrÃ­guez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrivera9206@estudiantec.cr</correo>
-                  <notas>41,99,16,51.3,51.3</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023020446">
-                  <nombre>Luis Solano Morales</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lsolano0446@estudiantec.cr</correo>
-                  <notas>75,34,69,58.2,58.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023051130">
-                  <nombre>Luis GonzÃ¡lez GonzÃ¡lez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lgonzã¡lez1130@estudiantec.cr</correo>
-                  <notas>87,91,80,85.6,85.6</notas>
+                  <correo>lmartínez7516@estudiantec.cr</correo>
+                  <notas>21,93,96,76.2,76.2</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023048942">
-                  <nombre>Camila Vargas GÃ³mez</nombre>
+            <Estudiante carne="2023016510">
+                  <nombre>Elena Martínez Díaz</nombre>
                   <genero>Femenino</genero>
-                  <correo>cvargas8942@estudiantec.cr</correo>
-                  <notas>17,60,96,63.7,63.7</notas>
-                  <estado>Reposición</estado>
+                  <correo>emartínez6510@estudiantec.cr</correo>
+                  <notas>99,58,11,49.4,49.4</notas>
+                  <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023028038">
-                  <nombre>Miguel GonzÃ¡lez Mora</nombre>
+            <Estudiante carne="2023068271">
+                  <nombre>Manuel Pérez Mora</nombre>
                   <genero>Femenino</genero>
-                  <correo>mgonzã¡lez8038@estudiantec.cr</correo>
-                  <notas>14,56,51,43.5,43.5</notas>
+                  <correo>mpérez8271@estudiantec.cr</correo>
+                  <notas>39,78,48,56.2,56.2</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023066141">
-                  <nombre>Manuel Rojas Mora</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrojas6141@estudiantec.cr</correo>
-                  <notas>98,27,63,59.2,59.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023061031">
-                  <nombre>AndrÃ©s SÃ¡nchez Flores</nombre>
-                  <genero>Masculino</genero>
-                  <correo>asã¡nchez1031@estudiantec.cr</correo>
-                  <notas>10,24,91,47.3,47.3</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023048912">
-                  <nombre>Pedro Navarro Torres</nombre>
-                  <genero>Femenino</genero>
-                  <correo>pnavarro8912@estudiantec.cr</correo>
-                  <notas>87,86,14,57.4,57.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023024099">
-                  <nombre>Miguel Morales RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mmorales4099@estudiantec.cr</correo>
-                  <notas>30,27,46,35.4,35.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023018764">
-                  <nombre>Valeria GonzÃ¡lez Torres</nombre>
-                  <genero>Femenino</genero>
-                  <correo>vgonzã¡lez8764@estudiantec.cr</correo>
-                  <notas>74,23,29,38.1,38.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023066728">
-                  <nombre>Gabriela MartÃ­nez MartÃ­nez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>gmartã­nez6728@estudiantec.cr</correo>
-                  <notas>51,14,48,36.9,36.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023041623">
-                  <nombre>Gabriela Rojas Acosta</nombre>
-                  <genero>Femenino</genero>
-                  <correo>grojas1623@estudiantec.cr</correo>
-                  <notas>45,8,38,29.2,29.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023015729">
-                  <nombre>LucÃ­a Torres Flores</nombre>
-                  <genero>Femenino</genero>
-                  <correo>ltorres5729@estudiantec.cr</correo>
-                  <notas>20,22,5,14.7,14.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023043098">
-                  <nombre>JosÃ© RamÃ­rez MartÃ­nez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jramã­rez3098@estudiantec.cr</correo>
-                  <notas>34,85,46,56.7,56.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023029446">
-                  <nombre>Carlos Navarro GonzÃ¡lez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>cnavarro9446@estudiantec.cr</correo>
-                  <notas>68,81,5,47.3,47.3</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023067593">
-                  <nombre>Valeria Acosta DÃ­az</nombre>
-                  <genero>Femenino</genero>
-                  <correo>vacosta7593@estudiantec.cr</correo>
-                  <notas>89,13,36,41.2,41.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023023899">
-                  <nombre>Valeria Chaves Morales</nombre>
-                  <genero>Masculino</genero>
-                  <correo>vchaves3899@estudiantec.cr</correo>
-                  <notas>82,53,76,69.5,69.5</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2023028228">
-                  <nombre>Luis RodrÃ­guez Chaves</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lrodrã­guez8228@estudiantec.cr</correo>
-                  <notas>36,64,30,43.4,43.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023023015">
-                  <nombre>Gabriela RodrÃ­guez Acosta</nombre>
-                  <genero>Femenino</genero>
-                  <correo>grodrã­guez3015@estudiantec.cr</correo>
-                  <notas>80,7,27,33.2,33.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023039945">
-                  <nombre>Pedro Solano RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>psolano9945@estudiantec.cr</correo>
-                  <notas>12,52,94,58.8,58.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023043236">
-                  <nombre>Valeria GÃ³mez RamÃ­rez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>vgã³mez3236@estudiantec.cr</correo>
-                  <notas>24,96,16,46.0,46.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023020607">
-                  <nombre>MarÃ­a SÃ¡nchez GonzÃ¡lez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>msã¡nchez0607@estudiantec.cr</correo>
-                  <notas>61,74,72,70.0,70.0</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023067067">
-                  <nombre>Manuel RodrÃ­guez Flores</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mrodrã­guez7067@estudiantec.cr</correo>
-                  <notas>7,34,3,14.8,14.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023058073">
+            <Estudiante carne="2023026202">
                   <nombre>Ana Mora Navarro</nombre>
                   <genero>Femenino</genero>
-                  <correo>amora8073@estudiantec.cr</correo>
-                  <notas>40,45,25,35.8,35.8</notas>
+                  <correo>amora6202@estudiantec.cr</correo>
+                  <notas>3,45,67,43.3,43.3</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023024291">
+            <Estudiante carne="2023015765">
+                  <nombre>Jorge González Flores</nombre>
+                  <genero>Femenino</genero>
+                  <correo>jgonzález5765@estudiantec.cr</correo>
+                  <notas>62,94,62,73.2,73.2</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023013972">
+                  <nombre>Ana Sánchez Morales</nombre>
+                  <genero>Femenino</genero>
+                  <correo>asánchez3972@estudiantec.cr</correo>
+                  <notas>76,1,59,43.0,43.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023042480">
+                  <nombre>Valeria Rivera Rojas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>vrivera2480@estudiantec.cr</correo>
+                  <notas>55,97,80,79.7,79.7</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023063793">
+                  <nombre>Camila Ramírez Rivera</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cramírez3793@estudiantec.cr</correo>
+                  <notas>86,12,15,31.7,31.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023048006">
+                  <nombre>Jorge Sánchez Morales</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jsánchez8006@estudiantec.cr</correo>
+                  <notas>71,66,23,50.0,50.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023054020">
+                  <nombre>Daniel Gómez Chaves</nombre>
+                  <genero>Femenino</genero>
+                  <correo>dgómez4020@estudiantec.cr</correo>
+                  <notas>51,77,95,77.7,77.7</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023026432">
+                  <nombre>Pedro Navarro Flores</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pnavarro6432@estudiantec.cr</correo>
+                  <notas>68,32,71,56.6,56.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023044135">
+                  <nombre>Lucía Chaves Díaz</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lchaves4135@estudiantec.cr</correo>
+                  <notas>40,66,4,34.7,34.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023018428">
+                  <nombre>Valeria Díaz Díaz</nombre>
+                  <genero>Femenino</genero>
+                  <correo>vdíaz8428@estudiantec.cr</correo>
+                  <notas>33,96,78,73.0,73.0</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023063747">
+                  <nombre>Sofía Díaz Flores</nombre>
+                  <genero>Masculino</genero>
+                  <correo>sdíaz3747@estudiantec.cr</correo>
+                  <notas>4,36,67,40.4,40.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023062144">
+                  <nombre>Laura Mora Navarro</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lmora2144@estudiantec.cr</correo>
+                  <notas>34,51,90,62.3,62.3</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2023016286">
+                  <nombre>Miguel Mora Mora</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mmora6286@estudiantec.cr</correo>
+                  <notas>65,3,50,37.3,37.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023051855">
+                  <nombre>Gabriela González Rojas</nombre>
+                  <genero>Femenino</genero>
+                  <correo>ggonzález1855@estudiantec.cr</correo>
+                  <notas>33,50,18,33.0,33.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023046392">
+                  <nombre>Luis Morales Morales</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lmorales6392@estudiantec.cr</correo>
+                  <notas>2,60,35,35.5,35.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023019170">
+                  <nombre>Laura Morales Morales</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lmorales9170@estudiantec.cr</correo>
+                  <notas>39,8,88,47.8,47.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023064878">
                   <nombre>Luis Acosta Chaves</nombre>
                   <genero>Masculino</genero>
-                  <correo>lacosta4291@estudiantec.cr</correo>
-                  <notas>100,51,30,54.8,54.8</notas>
+                  <correo>lacosta4878@estudiantec.cr</correo>
+                  <notas>46,16,5,19.1,19.1</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023039399">
-                  <nombre>Miguel PÃ©rez RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mpã©rez9399@estudiantec.cr</correo>
-                  <notas>61,77,7,45.0,45.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023052940">
-                  <nombre>Jorge SÃ¡nchez Castro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jsã¡nchez2940@estudiantec.cr</correo>
-                  <notas>1,67,25,33.7,33.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2023043893">
-                  <nombre>Manuel DÃ­az Morales</nombre>
+            <Estudiante carne="2023049182">
+                  <nombre>Valeria Castro Rojas</nombre>
                   <genero>Femenino</genero>
-                  <correo>mdã­az3893@estudiantec.cr</correo>
-                  <notas>10,45,72,47.0,47.0</notas>
+                  <correo>vcastro9182@estudiantec.cr</correo>
+                  <notas>61,83,3,45.5,45.5</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2023026907">
-                  <nombre>Ana Navarro Castro</nombre>
+            <Estudiante carne="2023054765">
+                  <nombre>Daniel González Mora</nombre>
+                  <genero>Femenino</genero>
+                  <correo>dgonzález4765@estudiantec.cr</correo>
+                  <notas>46,25,39,35.9,35.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023020511">
+                  <nombre>Daniel Acosta Ramírez</nombre>
                   <genero>Masculino</genero>
-                  <correo>anavarro6907@estudiantec.cr</correo>
-                  <notas>25,25,29,26.6,26.6</notas>
+                  <correo>dacosta0511@estudiantec.cr</correo>
+                  <notas>72,37,100,71.0,71.0</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023054398">
+                  <nombre>Gabriela Rodríguez Mora</nombre>
+                  <genero>Masculino</genero>
+                  <correo>grodríguez4398@estudiantec.cr</correo>
+                  <notas>75,37,7,34.5,34.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023064175">
+                  <nombre>Gabriela Vargas Mora</nombre>
+                  <genero>Femenino</genero>
+                  <correo>gvargas4175@estudiantec.cr</correo>
+                  <notas>50,73,38,53.2,53.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2023026285">
+                  <nombre>Miguel Chaves Gómez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mchaves6285@estudiantec.cr</correo>
+                  <notas>23,80,17,40.5,40.5</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
       </Generación>
       <Generación año="2024">
-            <Estudiante carne="2024059550">
-                  <nombre>Charles Enoch Rowe</nombre>
+            <Estudiante carne="2024066038">
+                  <nombre>Nathan Levesque Ludlow</nombre>
                   <genero>Masculino</genero>
-                  <correo>cenoch9550@estudiantec.cr</correo>
-                  <notas>3,11,62,29.4,29.4</notas>
+                  <correo>nlevesque6038@estudiantec.cr</correo>
+                  <notas>82,76,27,57.9,57.9</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2024058135">
-                  <nombre>James Booth Brown</nombre>
+            <Estudiante carne="2024014438">
+                  <nombre>Douglas Kitanik Henderson</nombre>
                   <genero>Femenino</genero>
-                  <correo>jbooth8135@estudiantec.cr</correo>
-                  <notas>64,74,22,50.7,50.7</notas>
+                  <correo>dkitanik4438@estudiantec.cr</correo>
+                  <notas>47,10,83,48.5,48.5</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2024027108">
-                  <nombre>Ashley Gray Mirabal</nombre>
+            <Estudiante carne="2024038345">
+                  <nombre>Paul Thomas Gravina</nombre>
+                  <genero>Masculino</genero>
+                  <correo>pthomas8345@estudiantec.cr</correo>
+                  <notas>5,17,49,26.8,26.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024042023">
+                  <nombre>Robert Young Lamantia</nombre>
+                  <genero>Masculino</genero>
+                  <correo>ryoung2023@estudiantec.cr</correo>
+                  <notas>30,38,65,46.8,46.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024041226">
+                  <nombre>Christopher Coffey Jones</nombre>
                   <genero>Femenino</genero>
-                  <correo>agray7108@estudiantec.cr</correo>
-                  <notas>99,8,99,67.2,67.2</notas>
+                  <correo>ccoffey1226@estudiantec.cr</correo>
+                  <notas>62,19,66,48.5,48.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024064063">
+                  <nombre>Christopher Walker Tran</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cwalker4063@estudiantec.cr</correo>
+                  <notas>36,68,49,52.4,52.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024011147">
+                  <nombre>Bette Schleusner Bueno</nombre>
+                  <genero>Masculino</genero>
+                  <correo>bschleusner1147@estudiantec.cr</correo>
+                  <notas>85,33,67,59.6,59.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024036374">
+                  <nombre>Brian Geer Zhang</nombre>
+                  <genero>Masculino</genero>
+                  <correo>bgeer6374@estudiantec.cr</correo>
+                  <notas>34,88,26,49.7,49.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024025495">
+                  <nombre>Jorge Rivera Navarro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jrivera5495@estudiantec.cr</correo>
+                  <notas>10,50,90,56.0,56.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024067022">
+                  <nombre>Camila Pérez Rodríguez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cpérez7022@estudiantec.cr</correo>
+                  <notas>47,74,19,45.2,45.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024016505">
+                  <nombre>Luis Rodríguez Rojas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lrodríguez6505@estudiantec.cr</correo>
+                  <notas>72,26,6,29.5,29.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024057442">
+                  <nombre>Elena Rodríguez Navarro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>erodríguez7442@estudiantec.cr</correo>
+                  <notas>5,93,23,43.0,43.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024041645">
+                  <nombre>Elena Rodríguez Torres</nombre>
+                  <genero>Femenino</genero>
+                  <correo>erodríguez1645@estudiantec.cr</correo>
+                  <notas>4,65,17,30.6,30.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024033201">
+                  <nombre>Daniel Morales Rivera</nombre>
+                  <genero>Masculino</genero>
+                  <correo>dmorales3201@estudiantec.cr</correo>
+                  <notas>45,97,26,55.6,55.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024063039">
+                  <nombre>Fernando Vargas Ramírez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>fvargas3039@estudiantec.cr</correo>
+                  <notas>79,28,50,49.5,49.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024049154">
+                  <nombre>Daniel Sánchez Rodríguez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>dsánchez9154@estudiantec.cr</correo>
+                  <notas>41,16,34,29.5,29.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024020659">
+                  <nombre>Luis Solano Díaz</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lsolano0659@estudiantec.cr</correo>
+                  <notas>77,16,12,29.7,29.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024060245">
+                  <nombre>José Pérez Acosta</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jpérez0245@estudiantec.cr</correo>
+                  <notas>24,68,80,61.8,61.8</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2024011052">
-                  <nombre>Sara Hargis Pena</nombre>
+            <Estudiante carne="2024056356">
+                  <nombre>Lucía Martínez Díaz</nombre>
                   <genero>Femenino</genero>
-                  <correo>shargis1052@estudiantec.cr</correo>
-                  <notas>38,25,3,19.4,19.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024032701">
-                  <nombre>William Franklin Menefield</nombre>
-                  <genero>Masculino</genero>
-                  <correo>wfranklin2701@estudiantec.cr</correo>
-                  <notas>76,38,47,51.1,51.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024012190">
-                  <nombre>Louis Johnson Kearns</nombre>
-                  <genero>Masculino</genero>
-                  <correo>ljohnson2190@estudiantec.cr</correo>
-                  <notas>6,100,19,44.1,44.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024045403">
-                  <nombre>Renee Harrison Freeman</nombre>
-                  <genero>Masculino</genero>
-                  <correo>rharrison5403@estudiantec.cr</correo>
-                  <notas>67,91,15,54.6,54.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024040283">
-                  <nombre>David Thorsen Hoffman</nombre>
-                  <genero>Femenino</genero>
-                  <correo>dthorsen0283@estudiantec.cr</correo>
-                  <notas>14,69,86,62.0,62.0</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2024059441">
-                  <nombre>George Sharp Killen</nombre>
-                  <genero>Femenino</genero>
-                  <correo>gsharp9441@estudiantec.cr</correo>
-                  <notas>36,4,36,24.8,24.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024033560">
-                  <nombre>Chad Beverly Gonzalez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>cbeverly3560@estudiantec.cr</correo>
-                  <notas>28,44,75,52.4,52.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024020529">
-                  <nombre>Michael Caro Hines</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mcaro0529@estudiantec.cr</correo>
-                  <notas>65,72,35,55.5,55.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024018351">
-                  <nombre>David Cantu Brimmage</nombre>
-                  <genero>Masculino</genero>
-                  <correo>dcantu8351@estudiantec.cr</correo>
-                  <notas>10,23,81,42.9,42.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024028186">
-                  <nombre>Michael Warner Guthrie</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mwarner8186@estudiantec.cr</correo>
-                  <notas>60,45,39,46.4,46.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024022439">
-                  <nombre>Tyisha Curiel Romero</nombre>
-                  <genero>Masculino</genero>
-                  <correo>tcuriel2439@estudiantec.cr</correo>
-                  <notas>97,2,2,25.8,25.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024017000">
-                  <nombre>Corinna Leusink Pippins</nombre>
-                  <genero>Femenino</genero>
-                  <correo>cleusink7000@estudiantec.cr</correo>
-                  <notas>91,12,72,55.8,55.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024061881">
-                  <nombre>MarÃ­a Morales Torres</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mmorales1881@estudiantec.cr</correo>
-                  <notas>42,5,30,24.2,24.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024031697">
-                  <nombre>Manuel Solano Rivera</nombre>
-                  <genero>Masculino</genero>
-                  <correo>msolano1697@estudiantec.cr</correo>
-                  <notas>46,87,16,48.4,48.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024061969">
-                  <nombre>Camila Acosta Castro</nombre>
-                  <genero>Femenino</genero>
-                  <correo>cacosta1969@estudiantec.cr</correo>
-                  <notas>82,43,4,37.1,37.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024067320">
-                  <nombre>AndrÃ©s Mora DÃ­az</nombre>
-                  <genero>Femenino</genero>
-                  <correo>amora7320@estudiantec.cr</correo>
-                  <notas>32,1,86,42.8,42.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024026152">
-                  <nombre>Manuel Rojas Rivera</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrojas6152@estudiantec.cr</correo>
-                  <notas>58,5,52,37.0,37.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024053014">
-                  <nombre>Paula Navarro Mora</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pnavarro3014@estudiantec.cr</correo>
-                  <notas>44,18,24,26.9,26.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024043923">
-                  <nombre>Camila Rivera Rojas</nombre>
-                  <genero>Femenino</genero>
-                  <correo>crivera3923@estudiantec.cr</correo>
-                  <notas>87,64,42,61.0,61.0</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2024013201">
-                  <nombre>JosÃ© SÃ¡nchez Solano</nombre>
-                  <genero>Femenino</genero>
-                  <correo>jsã¡nchez3201@estudiantec.cr</correo>
-                  <notas>43,42,17,32.2,32.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024022771">
-                  <nombre>Pedro Navarro Acosta</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pnavarro2771@estudiantec.cr</correo>
-                  <notas>97,91,22,64.9,64.9</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2024048102">
-                  <nombre>MarÃ­a RodrÃ­guez Chaves</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrodrã­guez8102@estudiantec.cr</correo>
-                  <notas>3,1,49,20.7,20.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024041530">
-                  <nombre>Laura Castro PÃ©rez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lcastro1530@estudiantec.cr</correo>
-                  <notas>97,37,59,60.8,60.8</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2024012006">
-                  <nombre>Paula Chaves Acosta</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pchaves2006@estudiantec.cr</correo>
-                  <notas>41,9,3,14.6,14.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024031126">
-                  <nombre>SofÃ­a RamÃ­rez Chaves</nombre>
-                  <genero>Femenino</genero>
-                  <correo>sramã­rez1126@estudiantec.cr</correo>
-                  <notas>73,24,83,59.9,59.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024037712">
-                  <nombre>Luis Vargas Chaves</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lvargas7712@estudiantec.cr</correo>
-                  <notas>9,51,64,45.7,45.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024045336">
-                  <nombre>Paula PÃ©rez Torres</nombre>
-                  <genero>Femenino</genero>
-                  <correo>ppã©rez5336@estudiantec.cr</correo>
-                  <notas>31,38,82,53.9,53.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024013438">
-                  <nombre>Luis Rojas DÃ­az</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lrojas3438@estudiantec.cr</correo>
-                  <notas>19,78,94,69.7,69.7</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2024066122">
-                  <nombre>Paula DÃ­az Mora</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pdã­az6122@estudiantec.cr</correo>
-                  <notas>88,26,89,66.7,66.7</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2024017187">
-                  <nombre>Paula Flores Mora</nombre>
-                  <genero>Masculino</genero>
-                  <correo>pflores7187@estudiantec.cr</correo>
-                  <notas>94,1,46,42.2,42.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024036776">
-                  <nombre>Paula RamÃ­rez DÃ­az</nombre>
-                  <genero>Femenino</genero>
-                  <correo>pramã­rez6776@estudiantec.cr</correo>
-                  <notas>71,37,39,46.3,46.3</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024054064">
-                  <nombre>Elena Morales Flores</nombre>
-                  <genero>Masculino</genero>
-                  <correo>emorales4064@estudiantec.cr</correo>
-                  <notas>93,16,20,36.9,36.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024052217">
-                  <nombre>Luis RodrÃ­guez Morales</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lrodrã­guez2217@estudiantec.cr</correo>
-                  <notas>21,22,34,26.6,26.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024028056">
-                  <nombre>Gabriela Castro DÃ­az</nombre>
-                  <genero>Masculino</genero>
-                  <correo>gcastro8056@estudiantec.cr</correo>
-                  <notas>99,81,73,82.3,82.3</notas>
+                  <correo>lmartínez6356@estudiantec.cr</correo>
+                  <notas>69,93,54,71.4,71.4</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2024043487">
-                  <nombre>Ana Rojas Acosta</nombre>
+            <Estudiante carne="2024025485">
+                  <nombre>Carlos Díaz Pérez</nombre>
                   <genero>Masculino</genero>
-                  <correo>arojas3487@estudiantec.cr</correo>
-                  <notas>26,83,49,55.1,55.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024036274">
-                  <nombre>Pedro PÃ©rez Chaves</nombre>
-                  <genero>Masculino</genero>
-                  <correo>ppã©rez6274@estudiantec.cr</correo>
-                  <notas>13,51,90,57.1,57.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024030983">
-                  <nombre>Ana Acosta RodrÃ­guez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>aacosta0983@estudiantec.cr</correo>
-                  <notas>10,81,2,31.6,31.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024021074">
-                  <nombre>JosÃ© Acosta RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jacosta1074@estudiantec.cr</correo>
-                  <notas>72,6,34,33.7,33.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024028473">
-                  <nombre>Fernando Rivera Flores</nombre>
-                  <genero>Masculino</genero>
-                  <correo>frivera8473@estudiantec.cr</correo>
-                  <notas>11,35,46,33.4,33.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024041360">
-                  <nombre>Luis GonzÃ¡lez PÃ©rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lgonzã¡lez1360@estudiantec.cr</correo>
-                  <notas>13,10,11,11.2,11.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024042427">
-                  <nombre>Ana Mora SÃ¡nchez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>amora2427@estudiantec.cr</correo>
-                  <notas>2,46,46,35.0,35.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024021281">
-                  <nombre>SofÃ­a Torres Solano</nombre>
-                  <genero>Femenino</genero>
-                  <correo>storres1281@estudiantec.cr</correo>
-                  <notas>93,75,84,83.1,83.1</notas>
+                  <correo>cdíaz5485@estudiantec.cr</correo>
+                  <notas>92,85,74,82.3,82.3</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2024035842">
-                  <nombre>Gabriela Chaves RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>gchaves5842@estudiantec.cr</correo>
-                  <notas>47,44,15,33.1,33.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024061076">
-                  <nombre>Camila RamÃ­rez Navarro</nombre>
+            <Estudiante carne="2024039644">
+                  <nombre>Manuel Rivera Morales</nombre>
                   <genero>Femenino</genero>
-                  <correo>cramã­rez1076@estudiantec.cr</correo>
-                  <notas>31,83,85,70.8,70.8</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024039880">
-                  <nombre>JosÃ© Flores Solano</nombre>
-                  <genero>Femenino</genero>
-                  <correo>jflores9880@estudiantec.cr</correo>
-                  <notas>26,20,100,53.5,53.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024059726">
-                  <nombre>Valeria DÃ­az RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>vdã­az9726@estudiantec.cr</correo>
-                  <notas>16,50,59,45.1,45.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024015239">
-                  <nombre>Valeria SÃ¡nchez Morales</nombre>
-                  <genero>Femenino</genero>
-                  <correo>vsã¡nchez5239@estudiantec.cr</correo>
-                  <notas>50,75,66,65.2,65.2</notas>
+                  <correo>mrivera9644@estudiantec.cr</correo>
+                  <notas>77,80,33,60.5,60.5</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2024052906">
-                  <nombre>AndrÃ©s Navarro RamÃ­rez</nombre>
+            <Estudiante carne="2024069530">
+                  <nombre>Paula Solano González</nombre>
                   <genero>Masculino</genero>
-                  <correo>anavarro2906@estudiantec.cr</correo>
-                  <notas>89,4,35,37.6,37.6</notas>
+                  <correo>psolano9530@estudiantec.cr</correo>
+                  <notas>7,51,31,32.0,32.0</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2024046752">
-                  <nombre>Pedro Solano Castro</nombre>
+            <Estudiante carne="2024022478">
+                  <nombre>Elena Solano Torres</nombre>
+                  <genero>Masculino</genero>
+                  <correo>esolano2478@estudiantec.cr</correo>
+                  <notas>36,68,72,61.6,61.6</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2024020701">
+                  <nombre>Lucía González Martínez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lgonzález0701@estudiantec.cr</correo>
+                  <notas>76,30,15,35.5,35.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024013241">
+                  <nombre>Valeria Rojas Acosta</nombre>
+                  <genero>Masculino</genero>
+                  <correo>vrojas3241@estudiantec.cr</correo>
+                  <notas>24,57,87,60.8,60.8</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2024011394">
+                  <nombre>Carlos Torres Ramírez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>ctorres1394@estudiantec.cr</correo>
+                  <notas>33,2,51,29.4,29.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024042437">
+                  <nombre>Manuel Rodríguez Morales</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mrodríguez2437@estudiantec.cr</correo>
+                  <notas>51,12,36,31.4,31.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024057657">
+                  <nombre>Manuel Castro Rodríguez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mcastro7657@estudiantec.cr</correo>
+                  <notas>28,5,8,11.9,11.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024040158">
+                  <nombre>Carlos Castro Rojas</nombre>
                   <genero>Femenino</genero>
-                  <correo>psolano6752@estudiantec.cr</correo>
-                  <notas>66,94,54,71.0,71.0</notas>
-                  <estado>Aprobado</estado>
+                  <correo>ccastro0158@estudiantec.cr</correo>
+                  <notas>94,90,13,60.2,60.2</notas>
+                  <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2024063564">
-                  <nombre>Fernando Navarro Vargas</nombre>
+            <Estudiante carne="2024033870">
+                  <nombre>José Navarro Mora</nombre>
                   <genero>Masculino</genero>
-                  <correo>fnavarro3564@estudiantec.cr</correo>
-                  <notas>90,73,25,58.0,58.0</notas>
+                  <correo>jnavarro3870@estudiantec.cr</correo>
+                  <notas>17,25,17,19.8,19.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2024015796">
-                  <nombre>Elena RamÃ­rez MartÃ­nez</nombre>
+            <Estudiante carne="2024066489">
+                  <nombre>Miguel Pérez Castro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mpérez6489@estudiantec.cr</correo>
+                  <notas>52,31,99,63.5,63.5</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2024017145">
+                  <nombre>Andrés Sánchez Morales</nombre>
                   <genero>Femenino</genero>
-                  <correo>eramã­rez5796@estudiantec.cr</correo>
-                  <notas>38,93,27,52.8,52.8</notas>
+                  <correo>asánchez7145@estudiantec.cr</correo>
+                  <notas>9,67,16,32.1,32.1</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2024016297">
-                  <nombre>Miguel Rivera Morales</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mrivera6297@estudiantec.cr</correo>
-                  <notas>19,89,35,49.9,49.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024058487">
-                  <nombre>LucÃ­a Solano Castro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lsolano8487@estudiantec.cr</correo>
-                  <notas>14,84,61,57.3,57.3</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2024059943">
-                  <nombre>Carlos Morales DÃ­az</nombre>
+            <Estudiante carne="2024022468">
+                  <nombre>Andrés Vargas Castro</nombre>
                   <genero>Femenino</genero>
-                  <correo>cmorales9943@estudiantec.cr</correo>
-                  <notas>92,60,62,68.8,68.8</notas>
+                  <correo>avargas2468@estudiantec.cr</correo>
+                  <notas>26,80,87,69.3,69.3</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2024038870">
+                  <nombre>Pedro Pérez Chaves</nombre>
+                  <genero>Masculino</genero>
+                  <correo>ppérez8870@estudiantec.cr</correo>
+                  <notas>11,22,70,38.5,38.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024056029">
+                  <nombre>Andrés González Morales</nombre>
+                  <genero>Femenino</genero>
+                  <correo>agonzález6029@estudiantec.cr</correo>
+                  <notas>30,50,46,43.4,43.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024024591">
+                  <nombre>Laura Acosta Solano</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lacosta4591@estudiantec.cr</correo>
+                  <notas>52,34,76,55.3,55.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024037987">
+                  <nombre>Miguel Rivera Flores</nombre>
+                  <genero>Femenino</genero>
+                  <correo>mrivera7987@estudiantec.cr</correo>
+                  <notas>41,92,34,56.0,56.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024051735">
+                  <nombre>Carlos Vargas Navarro</nombre>
+                  <genero>Femenino</genero>
+                  <correo>cvargas1735@estudiantec.cr</correo>
+                  <notas>88,41,45,54.4,54.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024018058">
+                  <nombre>Luis Mora Acosta</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lmora8058@estudiantec.cr</correo>
+                  <notas>31,37,27,31.5,31.5</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024048969">
+                  <nombre>Lucía Rojas Torres</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lrojas8969@estudiantec.cr</correo>
+                  <notas>34,80,27,47.3,47.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024010383">
+                  <nombre>Fernando Rojas Rivera</nombre>
+                  <genero>Femenino</genero>
+                  <correo>frojas0383@estudiantec.cr</correo>
+                  <notas>67,77,41,60.1,60.1</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2024060162">
+                  <nombre>Pedro Solano Rojas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>psolano0162@estudiantec.cr</correo>
+                  <notas>98,88,15,61.3,61.3</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2024022599">
+                  <nombre>Valeria Navarro Vargas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>vnavarro2599@estudiantec.cr</correo>
+                  <notas>66,8,2,20.1,20.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024065800">
+                  <nombre>Jorge Díaz Mora</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jdíaz5800@estudiantec.cr</correo>
+                  <notas>79,61,33,54.3,54.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024050475">
+                  <nombre>Paula Flores Martínez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>pflores0475@estudiantec.cr</correo>
+                  <notas>37,12,41,29.9,29.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2024029897">
+                  <nombre>Pedro Rivera Díaz</nombre>
+                  <genero>Femenino</genero>
+                  <correo>privera9897@estudiantec.cr</correo>
+                  <notas>43,99,47,64.2,64.2</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2024027879">
+                  <nombre>Gabriela Rodríguez Acosta</nombre>
+                  <genero>Femenino</genero>
+                  <correo>grodríguez7879@estudiantec.cr</correo>
+                  <notas>79,59,71,68.8,68.8</notas>
                   <estado>Reposición</estado>
             </Estudiante>
       </Generación>
       <Generación año="2025">
-            <Estudiante carne="2025031665">
-                  <nombre>Geneva Ripple Malachi</nombre>
-                  <genero>Femenino</genero>
-                  <correo>gripple1665@estudiantec.cr</correo>
-                  <notas>85,65,13,49.2,49.2</notas>
+            <Estudiante carne="2025012432">
+                  <nombre>Latoya Miller Kemerer</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lmiller2432@estudiantec.cr</correo>
+                  <notas>1,87,40,46.7,46.7</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025015187">
-                  <nombre>Bessie Bracco Knight</nombre>
-                  <genero>Femenino</genero>
-                  <correo>bbracco5187@estudiantec.cr</correo>
-                  <notas>94,27,71,61.4,61.4</notas>
+            <Estudiante carne="2025049212">
+                  <nombre>Charles Pearsall Smothers</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cpearsall9212@estudiantec.cr</correo>
+                  <notas>59,39,48,47.6,47.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025026271">
+                  <nombre>Claudia Beckham Connor</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cbeckham6271@estudiantec.cr</correo>
+                  <notas>96,34,67,62.7,62.7</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2025013278">
-                  <nombre>Helene Dillon Foley</nombre>
-                  <genero>Femenino</genero>
-                  <correo>hdillon3278@estudiantec.cr</correo>
-                  <notas>26,3,10,11.6,11.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025036649">
-                  <nombre>Scott Keener Webber</nombre>
+            <Estudiante carne="2025041235">
+                  <nombre>Ella Fletcher Rudd</nombre>
                   <genero>Masculino</genero>
-                  <correo>skeener6649@estudiantec.cr</correo>
-                  <notas>11,50,24,29.9,29.9</notas>
+                  <correo>efletcher1235@estudiantec.cr</correo>
+                  <notas>35,27,24,27.8,27.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025042770">
-                  <nombre>Valeria Navarro Chaves</nombre>
+            <Estudiante carne="2025015295">
+                  <nombre>Cathy Cohn Hill</nombre>
                   <genero>Femenino</genero>
-                  <correo>vnavarro2770@estudiantec.cr</correo>
-                  <notas>95,38,94,74.7,74.7</notas>
+                  <correo>ccohn5295@estudiantec.cr</correo>
+                  <notas>48,1,12,17.1,17.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025027531">
+                  <nombre>Jorge Díaz Pérez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jdíaz7531@estudiantec.cr</correo>
+                  <notas>19,31,53,36.8,36.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025052894">
+                  <nombre>María Chaves Vargas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>mchaves2894@estudiantec.cr</correo>
+                  <notas>27,47,2,24.0,24.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025032294">
+                  <nombre>Ana Gómez González</nombre>
+                  <genero>Masculino</genero>
+                  <correo>agómez2294@estudiantec.cr</correo>
+                  <notas>63,60,24,46.4,46.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025054006">
+                  <nombre>María González Martínez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>mgonzález4006@estudiantec.cr</correo>
+                  <notas>48,36,3,25.8,25.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025019182">
+                  <nombre>Sofía Morales Sánchez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>smorales9182@estudiantec.cr</correo>
+                  <notas>55,98,88,83.2,83.2</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025020002">
-                  <nombre>AndrÃ©s SÃ¡nchez Navarro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>asã¡nchez0002@estudiantec.cr</correo>
-                  <notas>66,63,39,54.1,54.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025019172">
-                  <nombre>Valeria Acosta Flores</nombre>
-                  <genero>Masculino</genero>
-                  <correo>vacosta9172@estudiantec.cr</correo>
-                  <notas>38,59,44,47.8,47.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025037746">
-                  <nombre>JosÃ© MartÃ­nez Vargas</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jmartã­nez7746@estudiantec.cr</correo>
-                  <notas>72,99,3,53.9,53.9</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025019588">
-                  <nombre>Gabriela PÃ©rez Rojas</nombre>
-                  <genero>Masculino</genero>
-                  <correo>gpã©rez9588@estudiantec.cr</correo>
-                  <notas>64,52,75,64.2,64.2</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2025030016">
-                  <nombre>MarÃ­a GonzÃ¡lez MartÃ­nez</nombre>
+            <Estudiante carne="2025016690">
+                  <nombre>Elena Pérez Rojas</nombre>
                   <genero>Femenino</genero>
-                  <correo>mgonzã¡lez0016@estudiantec.cr</correo>
-                  <notas>14,60,87,59.3,59.3</notas>
+                  <correo>epérez6690@estudiantec.cr</correo>
+                  <notas>80,7,63,47.7,47.7</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025030641">
-                  <nombre>Camila Morales Rojas</nombre>
+            <Estudiante carne="2025053579">
+                  <nombre>Pedro Solano Ramírez</nombre>
                   <genero>Masculino</genero>
-                  <correo>cmorales0641@estudiantec.cr</correo>
-                  <notas>53,71,36,52.5,52.5</notas>
+                  <correo>psolano3579@estudiantec.cr</correo>
+                  <notas>86,59,43,59.3,59.3</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025015265">
-                  <nombre>AndrÃ©s MartÃ­nez RodrÃ­guez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>amartã­nez5265@estudiantec.cr</correo>
-                  <notas>20,50,22,31.3,31.3</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025010746">
-                  <nombre>Jorge Rivera Navarro</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jrivera0746@estudiantec.cr</correo>
-                  <notas>77,78,64,72.2,72.2</notas>
+            <Estudiante carne="2025011162">
+                  <nombre>Pedro Vargas Martínez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pvargas1162@estudiantec.cr</correo>
+                  <notas>52,69,89,72.8,72.8</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025049903">
-                  <nombre>LucÃ­a Castro DÃ­az</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lcastro9903@estudiantec.cr</correo>
-                  <notas>96,21,13,36.6,36.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025013799">
-                  <nombre>Pedro Rivera MartÃ­nez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>privera3799@estudiantec.cr</correo>
-                  <notas>11,99,36,51.8,51.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025067215">
-                  <nombre>AndrÃ©s DÃ­az Rojas</nombre>
+            <Estudiante carne="2025041210">
+                  <nombre>Valeria González Chaves</nombre>
                   <genero>Masculino</genero>
-                  <correo>adã­az7215@estudiantec.cr</correo>
-                  <notas>16,57,35,38.0,38.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025049653">
-                  <nombre>MarÃ­a Solano GÃ³mez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>msolano9653@estudiantec.cr</correo>
-                  <notas>38,82,31,50.6,50.6</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025035454">
-                  <nombre>Luis RamÃ­rez Acosta</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lramã­rez5454@estudiantec.cr</correo>
-                  <notas>81,31,34,44.7,44.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025047283">
-                  <nombre>Miguel SÃ¡nchez GonzÃ¡lez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>msã¡nchez7283@estudiantec.cr</correo>
-                  <notas>63,92,38,63.1,63.1</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2025032069">
-                  <nombre>Carlos Castro Acosta</nombre>
-                  <genero>Femenino</genero>
-                  <correo>ccastro2069@estudiantec.cr</correo>
-                  <notas>22,47,79,53.5,53.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025034395">
-                  <nombre>LucÃ­a Morales RamÃ­rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lmorales4395@estudiantec.cr</correo>
-                  <notas>8,33,65,39.5,39.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025036082">
-                  <nombre>Manuel Solano RodrÃ­guez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>msolano6082@estudiantec.cr</correo>
-                  <notas>92,51,67,67.6,67.6</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2025053000">
-                  <nombre>Jorge Castro Acosta</nombre>
-                  <genero>Femenino</genero>
-                  <correo>jcastro3000@estudiantec.cr</correo>
-                  <notas>71,82,5,48.5,48.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025054084">
-                  <nombre>SofÃ­a SÃ¡nchez Vargas</nombre>
-                  <genero>Masculino</genero>
-                  <correo>ssã¡nchez4084@estudiantec.cr</correo>
-                  <notas>82,59,52,62.0,62.0</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2025019179">
-                  <nombre>Manuel Rivera Morales</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrivera9179@estudiantec.cr</correo>
-                  <notas>44,44,50,46.4,46.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025050813">
-                  <nombre>Carlos Solano GonzÃ¡lez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>csolano0813@estudiantec.cr</correo>
-                  <notas>16,3,93,42.2,42.2</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025050284">
-                  <nombre>JosÃ© Mora Torres</nombre>
-                  <genero>Femenino</genero>
-                  <correo>jmora0284@estudiantec.cr</correo>
-                  <notas>99,31,18,42.8,42.8</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025029772">
-                  <nombre>Laura Navarro Morales</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lnavarro9772@estudiantec.cr</correo>
-                  <notas>90,3,45,41.5,41.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025048211">
-                  <nombre>Valeria RamÃ­rez Solano</nombre>
-                  <genero>Masculino</genero>
-                  <correo>vramã­rez8211@estudiantec.cr</correo>
-                  <notas>26,12,17,17.5,17.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025017324">
-                  <nombre>Elena Morales Rojas</nombre>
-                  <genero>Masculino</genero>
-                  <correo>emorales7324@estudiantec.cr</correo>
-                  <notas>41,6,90,48.4,48.4</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025057368">
-                  <nombre>Gabriela Chaves Solano</nombre>
-                  <genero>Masculino</genero>
-                  <correo>gchaves7368@estudiantec.cr</correo>
-                  <notas>81,86,25,60.3,60.3</notas>
-                  <estado>Reposición</estado>
-            </Estudiante>
-            <Estudiante carne="2025025403">
-                  <nombre>JosÃ© Mora RodrÃ­guez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>jmora5403@estudiantec.cr</correo>
-                  <notas>13,29,49,33.0,33.0</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025060113">
-                  <nombre>Laura Mora RamÃ­rez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>lmora0113@estudiantec.cr</correo>
-                  <notas>31,97,78,72.9,72.9</notas>
+                  <correo>vgonzález1210@estudiantec.cr</correo>
+                  <notas>100,76,100,91.6,91.6</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025052224">
-                  <nombre>Miguel Rivera Flores</nombre>
-                  <genero>Femenino</genero>
-                  <correo>mrivera2224@estudiantec.cr</correo>
-                  <notas>41,8,79,44.7,44.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025034920">
-                  <nombre>Fernando RamÃ­rez Acosta</nombre>
-                  <genero>Femenino</genero>
-                  <correo>framã­rez4920@estudiantec.cr</correo>
-                  <notas>6,37,98,53.7,53.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025019058">
-                  <nombre>LucÃ­a MartÃ­nez Rivera</nombre>
+            <Estudiante carne="2025029591">
+                  <nombre>José Acosta Ramírez</nombre>
                   <genero>Masculino</genero>
-                  <correo>lmartã­nez9058@estudiantec.cr</correo>
-                  <notas>93,40,97,76.1,76.1</notas>
+                  <correo>jacosta9591@estudiantec.cr</correo>
+                  <notas>92,85,51,73.2,73.2</notas>
                   <estado>Aprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025021692">
-                  <nombre>Daniel GÃ³mez Navarro</nombre>
+            <Estudiante carne="2025028481">
+                  <nombre>Fernando Vargas Díaz</nombre>
                   <genero>Masculino</genero>
-                  <correo>dgã³mez1692@estudiantec.cr</correo>
-                  <notas>81,57,76,70.6,70.6</notas>
-                  <estado>Aprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025017781">
-                  <nombre>LucÃ­a Rojas Torres</nombre>
-                  <genero>Masculino</genero>
-                  <correo>lrojas7781@estudiantec.cr</correo>
-                  <notas>80,66,14,48.7,48.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025022692">
-                  <nombre>Carlos DÃ­az PÃ©rez</nombre>
-                  <genero>Masculino</genero>
-                  <correo>cdã­az2692@estudiantec.cr</correo>
-                  <notas>64,9,25,29.1,29.1</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025045308">
-                  <nombre>Manuel DÃ­az Solano</nombre>
-                  <genero>Masculino</genero>
-                  <correo>mdã­az5308@estudiantec.cr</correo>
-                  <notas>12,7,63,30.7,30.7</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025013987">
-                  <nombre>SofÃ­a SÃ¡nchez RamÃ­rez</nombre>
-                  <genero>Femenino</genero>
-                  <correo>ssã¡nchez3987@estudiantec.cr</correo>
-                  <notas>78,62,51,61.6,61.6</notas>
+                  <correo>fvargas8481@estudiantec.cr</correo>
+                  <notas>40,89,51,61.5,61.5</notas>
                   <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2025016423">
-                  <nombre>AndrÃ©s Chaves GÃ³mez</nombre>
+            <Estudiante carne="2025019258">
+                  <nombre>Carlos Navarro González</nombre>
                   <genero>Femenino</genero>
-                  <correo>achaves6423@estudiantec.cr</correo>
-                  <notas>28,55,41,42.7,42.7</notas>
+                  <correo>cnavarro9258@estudiantec.cr</correo>
+                  <notas>16,20,92,47.8,47.8</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025061679">
-                  <nombre>Laura GonzÃ¡lez Torres</nombre>
+            <Estudiante carne="2025017115">
+                  <nombre>Miguel González Chaves</nombre>
+                  <genero>Femenino</genero>
+                  <correo>mgonzález7115@estudiantec.cr</correo>
+                  <notas>54,3,10,18.6,18.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025014145">
+                  <nombre>Daniel Pérez Torres</nombre>
+                  <genero>Femenino</genero>
+                  <correo>dpérez4145@estudiantec.cr</correo>
+                  <notas>69,36,60,53.9,53.9</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025037849">
+                  <nombre>Valeria Acosta Chaves</nombre>
                   <genero>Masculino</genero>
-                  <correo>lgonzã¡lez1679@estudiantec.cr</correo>
-                  <notas>86,31,29,44.0,44.0</notas>
-                  <estado>Reprobado</estado>
+                  <correo>vacosta7849@estudiantec.cr</correo>
+                  <notas>10,97,66,62.8,62.8</notas>
+                  <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2025032342">
-                  <nombre>Ana SÃ¡nchez MartÃ­nez</nombre>
+            <Estudiante carne="2025025679">
+                  <nombre>Gabriela Sánchez Díaz</nombre>
                   <genero>Masculino</genero>
-                  <correo>asã¡nchez2342@estudiantec.cr</correo>
-                  <notas>58,3,50,35.5,35.5</notas>
+                  <correo>gsánchez5679@estudiantec.cr</correo>
+                  <notas>8,99,92,73.5,73.5</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025067739">
+                  <nombre>José Rojas Morales</nombre>
+                  <genero>Femenino</genero>
+                  <correo>jrojas7739@estudiantec.cr</correo>
+                  <notas>25,57,66,52.6,52.6</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025035204">
+            <Estudiante carne="2025038710">
                   <nombre>Camila Navarro Flores</nombre>
                   <genero>Masculino</genero>
-                  <correo>cnavarro5204@estudiantec.cr</correo>
-                  <notas>41,69,46,52.8,52.8</notas>
-                  <estado>Reprobado</estado>
+                  <correo>cnavarro8710@estudiantec.cr</correo>
+                  <notas>83,54,68,66.8,66.8</notas>
+                  <estado>Reposición</estado>
             </Estudiante>
-            <Estudiante carne="2025021011">
-                  <nombre>AndrÃ©s Chaves Rojas</nombre>
+            <Estudiante carne="2025028995">
+                  <nombre>Daniel Vargas Flores</nombre>
                   <genero>Femenino</genero>
-                  <correo>achaves1011@estudiantec.cr</correo>
-                  <notas>6,11,51,25.8,25.8</notas>
+                  <correo>dvargas8995@estudiantec.cr</correo>
+                  <notas>19,94,34,51.2,51.2</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
-            <Estudiante carne="2025013591">
-                  <nombre>Elena RamÃ­rez Navarro</nombre>
-                  <genero>Femenino</genero>
-                  <correo>eramã­rez3591@estudiantec.cr</correo>
-                  <notas>28,67,30,42.5,42.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025021468">
-                  <nombre>Pedro MartÃ­nez Solano</nombre>
-                  <genero>Femenino</genero>
-                  <correo>pmartã­nez1468@estudiantec.cr</correo>
-                  <notas>6,91,28,44.5,44.5</notas>
-                  <estado>Reprobado</estado>
-            </Estudiante>
-            <Estudiante carne="2025069222">
-                  <nombre>Gabriela Mora Castro</nombre>
+            <Estudiante carne="2025060253">
+                  <nombre>Jorge Ramírez González</nombre>
                   <genero>Masculino</genero>
-                  <correo>gmora9222@estudiantec.cr</correo>
-                  <notas>33,17,83,47.4,47.4</notas>
+                  <correo>jramírez0253@estudiantec.cr</correo>
+                  <notas>7,46,78,49.0,49.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025052277">
+                  <nombre>Sofía Ramírez Martínez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>sramírez2277@estudiantec.cr</correo>
+                  <notas>92,75,53,70.5,70.5</notas>
+                  <estado>Aprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025024215">
+                  <nombre>Andrés Mora Ramírez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>amora4215@estudiantec.cr</correo>
+                  <notas>71,39,89,67.0,67.0</notas>
+                  <estado>Reposición</estado>
+            </Estudiante>
+            <Estudiante carne="2025069505">
+                  <nombre>Luis Castro Rodríguez</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lcastro9505@estudiantec.cr</correo>
+                  <notas>36,23,6,19.4,19.4</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025055992">
+                  <nombre>Paula Ramírez Díaz</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pramírez5992@estudiantec.cr</correo>
+                  <notas>52,70,37,52.3,52.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025056141">
+                  <nombre>Gabriela Rivera Navarro</nombre>
+                  <genero>Masculino</genero>
+                  <correo>grivera6141@estudiantec.cr</correo>
+                  <notas>51,19,76,49.8,49.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025036739">
+                  <nombre>Laura Navarro Rojas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lnavarro6739@estudiantec.cr</correo>
+                  <notas>47,65,7,37.3,37.3</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025033731">
+                  <nombre>Luis Solano Morales</nombre>
+                  <genero>Femenino</genero>
+                  <correo>lsolano3731@estudiantec.cr</correo>
+                  <notas>58,66,14,43.2,43.2</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025029687">
+                  <nombre>Ana Pérez Flores</nombre>
+                  <genero>Femenino</genero>
+                  <correo>apérez9687@estudiantec.cr</correo>
+                  <notas>62,42,4,31.8,31.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025012253">
+                  <nombre>Laura Flores Mora</nombre>
+                  <genero>Masculino</genero>
+                  <correo>lflores2253@estudiantec.cr</correo>
+                  <notas>46,21,58,42.1,42.1</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025050273">
+                  <nombre>Paula Flores Pérez</nombre>
+                  <genero>Femenino</genero>
+                  <correo>pflores0273@estudiantec.cr</correo>
+                  <notas>8,32,92,50.0,50.0</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025013935">
+                  <nombre>José Martínez Solano</nombre>
+                  <genero>Femenino</genero>
+                  <correo>jmartínez3935@estudiantec.cr</correo>
+                  <notas>98,9,15,33.6,33.6</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025036124">
+                  <nombre>Camila Morales Rojas</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cmorales6124@estudiantec.cr</correo>
+                  <notas>62,28,11,29.7,29.7</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025044227">
+                  <nombre>Carlos Díaz Flores</nombre>
+                  <genero>Masculino</genero>
+                  <correo>cdíaz4227@estudiantec.cr</correo>
+                  <notas>57,10,55,39.8,39.8</notas>
+                  <estado>Reprobado</estado>
+            </Estudiante>
+            <Estudiante carne="2025014928">
+                  <nombre>José Chaves Torres</nombre>
+                  <genero>Masculino</genero>
+                  <correo>jchaves4928@estudiantec.cr</correo>
+                  <notas>45,68,54,56.6,56.6</notas>
                   <estado>Reprobado</estado>
             </Estudiante>
       </Generación>

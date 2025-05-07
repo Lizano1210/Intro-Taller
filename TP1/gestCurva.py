@@ -9,7 +9,9 @@ es ingresado por el usuario, posterior se separa a los estudiantes segun su esta
 reporte html para cada estado respectivamente.
 '''
 
-def gestionCurva(bD):
+import pickle
+
+def gestionCurva():
     """
     Funcionamiento: Solicita al usuario un porcentaje de curva y lo aplica a la nota final de todos los estudiantes
     en la base de datos. Actualiza la nota final curva para cada estudiante y luego genera un reporte por estado
@@ -20,6 +22,8 @@ def gestionCurva(bD):
     - dict: Diccionario generado por `reportePorEstado()` con conteo de estudiantes según su estado académico
     (Aprobado, Reposición, Reprobado).
     """
+    with open('baseDatosDinamica.pkl', 'rb') as archivobD:
+            bD = pickle.load(archivobD)
     while True: # Se solicita curva al usuario.
         try:
             curva = int(input(f'Por favor ingrese el porcentaje de curva que desea aplicar a los estudiantes.\n'))

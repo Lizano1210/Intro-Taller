@@ -9,9 +9,10 @@ al final. Tambien reespalda ese mismo reporte en un .csv
 '''
 
 import BDdinamica
+import pickle
 #bD = BDdinamica.bdDinamicaES() 
 
-def crearReporte(bD):
+def crearReporte():
     """
     Funcionamiento: Genera un reporte visual en HTML y un respaldo en CSV con la información de los estudiantes 
     almacenados en una base de datos. El reporte incluye detalles personales, notas parciales, nota final y el 
@@ -23,6 +24,8 @@ def crearReporte(bD):
     - 'reporteHTML.html': Reporte visual en formato HTML.
     - 'respaldoCSV.csv': Respaldo en formato CSV con la misma información.
     """
+    with open('baseDatosDinamica.pkl', 'rb') as archivobD:
+            bD = pickle.load(archivobD)
     aprobados = 0
     reposicion = 0
     reprobados = 0
