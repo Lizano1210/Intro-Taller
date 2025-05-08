@@ -3,11 +3,15 @@
 #
 #
 
+'''
+REGISTRAR ESTUDIANTE: Este documento contiene la función que permite al usuario registrar nuevos estudiantes
+en la base de datos.
+'''
+
 import re
 import pickle
 import BDdinamica
-
-                    
+            
 def registrarEstudianteES():
     with open('baseDatosDinamica.pkl', 'rb') as archivobD:
             bD = pickle.load(archivobD)

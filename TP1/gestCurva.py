@@ -39,6 +39,8 @@ def gestionCurva():
         notaF = round(notaF, 1)
         notasCurva = notas[:4] + (notaF,)
         i[4] = notasCurva
+    with open('baseDatosDinamica.pkl', 'wb') as archivobD:
+        pickle.dump(bD, archivobD)
     return reportePorEstado(bD)
 
 

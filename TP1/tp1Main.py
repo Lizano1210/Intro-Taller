@@ -14,7 +14,8 @@ import registrarEstudiante
 import reporteHTML
 import respaldoXML
 import gestCurva
-#import apalazados2
+import apalazados2
+import reporteGenero
 import pickle
 
 # Definición de variables
@@ -40,12 +41,15 @@ def menu():
     '11. Salir. \n' 
     '')
 
-    while True: #Ciclo que obliga al usuario a ingresar una opción valida.
-        opcion = int(input('Dígite una opción: '))
-        if opcion in (1,2,3,4,5,6,7,8,9,10,11):
-            break
-        else:
-            print('El dato ingresado es invalido, intente de nuevo.')
+    while True:
+        try: #Ciclo que obliga al usuario a ingresar una opción valida.
+            opcion = int(input('Dígite una opción: '))
+            if opcion in (1,2,3,4,5,6,7,8,9,10,11):
+                break
+            else:
+                print('El dato ingresado es invalido, intente de nuevo.')
+        except ValueError:
+            print('El dato ingresado es invalido, ingrese unicamente números enteros.')
 
     if opcion == 1:
         BDdinamica.bdDinamicaES()
@@ -70,13 +74,18 @@ def menu():
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
+    if opcion == 5:
+        reporteGenero.determinarGeneroyOrdenar()
+        print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
+        return menu()
+    
     if opcion == 6:
         gestCurva.gestionCurva()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 8:
-        #apalazados2.determinarAplazados2oMas(bD)
+        apalazados2.determinarAplazados()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
