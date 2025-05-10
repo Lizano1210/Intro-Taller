@@ -54,7 +54,7 @@ def generaNombres(entrada,annoInicial,annoFinal,nota1,nota2,nota3):
                 break
         sedeEstudiante = sede()
         carne = f'{random.randint(int(annoInicial),int(annoFinal))}{random.choice(sedeEstudiante[1])}{random.randint(0,9999):04}'
-        correo = f'{nombre[0].lower()}{pApellido.lower()}{carne[6:]}@estudiantec.cr'
+        correo = f'{quitaTilde(nombre[0].lower())}{quitaTilde(pApellido.lower())}{carne[6:]}@estudianteclvz.cr'
         notas = (random.randint(1,100), random.randint(1,100), random.randint(1,100), 0.0, 0.0)
         notaReal1 = notas[0] * (nota1/100)
         notaReal2 = notas[1] * (nota2/100)
@@ -108,7 +108,7 @@ def leeNombres(porcentaje,annoInicial,annoFinal,nota1,nota2,nota3):
             sexo = False
         sedeEstudiante = sede()
         carne = f'{random.randint(int(annoInicial),int(annoFinal))}{random.choice(sedeEstudiante[1])}{random.randint(0,9999):04}'
-        correo = f'{nombreEst[0].lower()}{Apellido1.lower()}{carne[6:]}@estudiantec.cr'
+        correo = f'{quitaTilde(nombreEst[0].lower())}{quitaTilde(Apellido1.lower())}{carne[6:]}@estudianteclvz.cr'
         notas = (random.randint(1,100), random.randint(1,100), random.randint(1,100), 0.0, 0.0)
         notaReal1 = notas[0] * (nota1/100)
         notaReal2 = notas[1] * (nota2/100)
@@ -193,15 +193,38 @@ def sede():
     cantidadSedes = len(lineasSedes)
     contador = 0
     for i in (lineasSedes):
-        sedeTexto = i.replace('\n','')
+        sedeTexto = i.replace('\n','') # Eliminamos los \n presentes en el texto del archivo.
         contador += 1
-        codSede = '0' + str(contador)
-        sedeCompleta = [sedeTexto, codSede]
+        codSede = '0' + str(contador) # Variable con solo los codigos de sede
+        sedeCompleta = [sedeTexto, codSede] # Variable con las sedes con nombre y codigo
         codSedes.append(codSede)
         sedes.append(sedeCompleta)
     #print(sedes)
+    with open('sedes.pkl', 'wb') as archivoSedes:
+        pickle.dump(sedes, archivoSedes)
+    with open('sedesCod.pkl', 'wb') as archivoCodSedes:
+        pickle.dump(codSedes, archivoCodSedes)
     return [sedes, codSedes]
 
+def quitaTilde(texto): #Importante leer documentación de la función.
+    '''
+    En esta función utilizamos un método encontrado en internet que nos ayuda
+    a eliminar tildes de los nombres, esto es especialmente importante por el
+    punto 7 de la tarea. Donde los correos electronicos no pueden llevar tildes 
+    para que el código sea funcional.
+    Tengo entendido que ningún elemento lógico usado en esta función no ha sido utilizado
+    en clase pero realizo esta aclaración por si se ve un poco fuera de lugar con respecto
+    a lo usado en clase.
+    '''
+    import unicodedata #Es un modúlo que nos ayuda con manejar la codificación y descomposición de caracteres unicode
+                       #Como las tildes en nuestro caso.
+    texto = unicodedata.normalize('NFD', texto)  # normalize separa las letras con caracter combinante como tilde de sus letras
+                                                 # Es decir si tenemos á separa ese caracter en a y '.
+    sinTilde = '' # Se crea texto que se convertira en la misma palabra sin  las letras con tilde.
+    for letra in texto:
+        if not unicodedata.combining(letra): # combining revisa si la letra tiene un caracter combinante como la tilde.
+            sinTilde += letra 
+    return sinTilde
 
 
 

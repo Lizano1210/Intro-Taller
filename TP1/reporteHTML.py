@@ -82,7 +82,7 @@ def crearReporte():
         carne = i[2]
         correo = i[3]
         notas = i[4][0:4]
-        notaFinal = i[4][3]
+        notaFinal = i[4][4]
         if notaFinal >= 70:
             resultado = 'Aprobado'
             aprobados += 1

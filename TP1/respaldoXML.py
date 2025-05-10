@@ -27,7 +27,7 @@ def respaldoXML():
     respaldo = open('respaldoXML.xml', 'w', encoding='utf-8')
     anno = int(annos[0])
     annoFinal = int(annos[1])
-    cantidad = annoFinal - anno
+    cantidad = annoFinal - anno #Se define para cuantas generaciones se debe crear un respaldo.
     cantidad += 1
     respaldo.write(f'<Estudiantes>\n')
     for e in range(cantidad): #Ciclo que incrementa la generación.

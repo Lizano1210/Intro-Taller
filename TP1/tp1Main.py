@@ -14,8 +14,11 @@ import registrarEstudiante
 import reporteHTML
 import respaldoXML
 import gestCurva
-import apalazados2
+import aplazados2
 import reporteGenero
+import rendimientoSede
+import envioCorreos
+import statGeneracion
 import pickle
 
 # Definición de variables
@@ -84,8 +87,23 @@ def menu():
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
+    if opcion == 7:
+        print(envioCorreos.determinarReposicion())
+        print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
+        return menu()
+    
     if opcion == 8:
-        apalazados2.determinarAplazados()
+        aplazados2.determinarAplazados()
+        print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
+        return menu()
+    
+    if opcion == 9:
+        statGeneracion.estadisticaGeneracion()
+        print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
+        return menu()
+    
+    if opcion == 10:
+        rendimientoSede.determinarSede()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
