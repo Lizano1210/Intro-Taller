@@ -1,7 +1,7 @@
-#
-#
-#
-# 
+# Elaborado por: Elías Lizano y Joshua Brenes
+# Fecha de creación: 22/4/2025 7:00p.m
+# Última modificación: 9/52025 11:00p.m
+# Versión de python: 3.12.3
 
 '''
 Tarea Programada 1, Main: Este es el documento principal de la tarea, el que se ejecuta para iniciar el programa.
@@ -9,26 +9,14 @@ Contiene principalmente, la función de menú.
 '''
 
 # Importación de librerias/modulos
-import BDdinamica
-import registrarEstudiante
-import reporteHTML
-import respaldoXML
-import gestCurva
-import aplazados2
-import reporteGenero
-import rendimientoSede
-import envioCorreos
-import statGeneracion
+import funciones
 import pickle
-
-# Definición de variables
-
 
 '''
 Menú
 '''
 def menu():
-    print('Administrados de propiedades. \nSeleccione una opción.\n' 
+    print('Tarea programada 1, Base de datos de estudiantes. \nSeleccione una opción.\n' 
     '\n' 
     'Dígite la tecla indicada según cada opción. \n' 
     '1. Crear base de datos dínamica. \n' 
@@ -55,55 +43,55 @@ def menu():
             print('El dato ingresado es invalido, ingrese unicamente números enteros.')
 
     if opcion == 1:
-        BDdinamica.bdDinamicaES()
+        funciones.bdDinamicaES()
         with open('baseDatosDinamica.pkl', 'rb') as archivobD:
             bD = pickle.load(archivobD)
-        print(bD)
+        #print(bD)
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 2:
-        registrarEstudiante.registrarEstudianteES()
+        funciones.registrarEstudianteES()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 3:
-        reporteHTML.crearReporte()
+        funciones.crearReporte()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 4:
-        respaldoXML.respaldoXML()
+        funciones.respaldoXML()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 5:
-        reporteGenero.determinarGeneroyOrdenar()
+        funciones.determinarGeneroyOrdenar()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 6:
-        gestCurva.gestionCurva()
+        funciones.gestionCurva()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 7:
-        print(envioCorreos.determinarReposicion())
+        print(funciones.determinarReposicion())
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 8:
-        aplazados2.determinarAplazados()
+        funciones.determinarAplazados()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 9:
-        statGeneracion.estadisticaGeneracion()
+        funciones.estadisticaGeneracion()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
     if opcion == 10:
-        rendimientoSede.determinarSede()
+        funciones.determinarSede()
         print('') # Espacio utilizado para separar el resultado de el menu desplegandose nuevamente solo porque se ve bonito :)
         return menu()
     
